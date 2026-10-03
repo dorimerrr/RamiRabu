@@ -18644,13 +18644,13 @@
   },
   "SpotAreaMaster": {
     "Name": {
-      "柊校区": "柊校区",
-      "スカラ校区": "スカラ校区",
-      "ユーロ・タワー校区": "ユーロ・タワー校区",
-      "ＬＯＣ校区": "ＬＯＣ校区",
+      "柊校区": "Hiiragi School District",
+      "スカラ校区": "Scalar School District",
+      "ユーロ・タワー校区": "Euro Tower School District",
+      "ＬＯＣ校区": "LOC School District",
       "特別養成校舎": "特別養成校舎",
-      "行政居住区": "行政居住区",
-      "ゾリャー校区": "ゾリャー校区"
+      "行政居住区": "Administrative Residential District",
+      "ゾリャー校区": "Zorya School District"
     },
     "Description": {
       "アマツ地区の文化を基盤とした校区。主となるエリアには柊校舎の他、飲食店や商店、住宅もまとまっていて過ごしやすい。柊校舎は様々な設備が用意されていて、不便を感じない文化的な生活を送ることができる。": "アマツ地区の文化を基盤とした校区。主となるエリアには柊校舎の他、飲食店や商店、住宅もまとまっていて過ごしやすい。柊校舎は様々な設備が用意されていて、不便を感じない文化的な生活を送ることができる。",
@@ -18664,26 +18664,26 @@
   },
   "SpotAreaPointMaster": {
     "Name": {
-      "柊校舎教室": "柊校舎教室",
-      "柊校舎食堂": "柊校舎食堂",
-      "柊校舎屋上": "柊校舎屋上",
-      "運動場": "運動場",
-      "スカラ校舎教室": "スカラ校舎教室",
-      "商店街": "商店街",
-      "茶室": "茶室",
-      "ユーロタワー校舎教室": "ユーロタワー校舎教室",
-      "ショッピングモール": "ショッピングモール",
-      "ゲームセンター": "ゲームセンター",
-      "屋内訓練場": "屋内訓練場",
-      "LOC校舎教室": "LOC校舎教室",
-      "カフェ": "カフェ",
-      "シミュレーション室": "シミュレーション室",
+      "柊校舎教室": "Hiiragi School Building Classroom",
+      "柊校舎食堂": "Hiiragi School Building Cafeteria",
+      "柊校舎屋上": "Hiiragi School Building Rooftop",
+      "運動場": "Sports Field",
+      "スカラ校舎教室": "Scalar School Building Classroom",
+      "商店街": "Shopping Street",
+      "茶室": "Tea Room",
+      "ユーロタワー校舎教室": "Euro Tower Classroom",
+      "ショッピングモール": "Shopping Mall",
+      "ゲームセンター": "Arcade",
+      "屋内訓練場": "Indoor Training Ground",
+      "LOC校舎教室": "LOC School Building Classroom",
+      "カフェ": "Cafe",
+      "シミュレーション室": "Simulation Room",
       "特別養成校舎教室": "特別養成校舎教室",
-      "シティ街中": "シティ街中",
-      "マイルーム": "マイルーム",
-      "生徒会室廊下": "生徒会室廊下",
-      "ゾリャー校舎教室": "ゾリャー校舎教室",
-      "ゾリャー校区街中": "ゾリャー校区街中"
+      "シティ街中": "City Streets",
+      "マイルーム": "My Room",
+      "生徒会室廊下": "Student Council Room Hallway",
+      "ゾリャー校舎教室": "Zorya School Building Classroom",
+      "ゾリャー校区街中": "Zorya School District Streets"
     }
   },
   "SubscriptionMaster": {
