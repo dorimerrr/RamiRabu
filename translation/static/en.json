@@ -73,7 +73,7 @@
       "危機的な状況から、生還した指揮官たち。\nイザナミによって支配されたパイロットを\n救うため、彼らは地上へ反撃に出る――": "Having survived a critical situation, the commanders launch a counteroffensive on the surface to save the pilots controlled by Izanami—",
       "ゾリャー校区に現れたのは、イザナミが操る\n戦略機動要塞『八咫烏』。指揮官達は校区を守る\nため戦いに向かう。そこに５機の天穹が現れ――": "Appearing in the Zorya School District is the strategic mobile fortress 'Yatagarasu', controlled by Izanami. The commanders head into battle to protect the district. Just then, five Tenkyu units appear—",
       "ゾリャー校区に現れたのは、イザナミが操る\n戦略機動要塞『八咫烏』。指揮官達は校区を\n守るため戦いに向かう。そこに５機の天穹が現れ――": "Appearing in the Zorya School District is the strategic mobile fortress 'Yatagarasu,' controlled by Izanami. The commanders head into battle to protect the district. Just then, five Tenkyuu units appear--",
-      "10章のあらすじ": "10章のあらすじ"
+      "10章のあらすじ": "Chapter 10 Synopsis"
     }
   },
   "ChapterMaster": {
@@ -147,9 +147,9 @@
       "勝利方式": "Formula for Victory",
       "煌色少女": "Radiant Girl",
       "イベントストーリー": "Event Story",
-      "10章1節": "10章1節",
-      "10章2節": "10章2節",
-      "10章3節": "10章3節"
+      "10章1節": "Chapter 10, Section 1",
+      "10章2節": "Chapter 10, Section 2",
+      "10章3節": "Chapter 10, Section 3"
     },
     "Overview": {
       "「次の公式試合で負ければ退学」\nそんな条件を言い渡されたシリウスシュガー。\n危機感のない彼女たちとの学園生活の中で\n指揮官であるあなたはシリウスシュガーに\n必要な『足りないもの』を見つけ……": "\"Expulsion if you lose the next official match.\" That was the condition handed down to Sirius Sugar. Living alongside these girls who lacked any sense of urgency, you, as their commander, must discover what missing element Sirius Sugar needs...",
@@ -186,9 +186,9 @@
       "指揮官の演説を引き金として、\nザルトゥームの生徒達は洗脳から解放された。\nしかし狂乱するイザナミは、演説範囲を\n浄化対象として攻撃を開始する。\n洗脳の解けた各チームは人々を守るべく、\n指揮官と合流して共に戦い始めるのだった。": "Triggered by the commander's speech, the students of Zartum are freed from their brainwashing. Driven to madness, however, Izanami deems the area of the speech a target for purge and launches an attack. Freed from mind control, the various teams gather around the commander to fight alongside one another and protect the people.",
       "生還した神楽を加え、決戦の準備は整った。\nザルトゥームの人々の自由を勝ち取るために、\n一行はイザナミの本体があるセレノシア島を\n目標として最後の作戦へと臨む。\n急ピッチで準備が進められる中、\n指揮官は疲れた様子のタチアナを見かけ――": "Joined by the surviving Kagura, preparations for the final battle are complete. To win back freedom for the people of Zartum, the group embarks on their final operation, targeting Selenosia Island where Izanami's main body resides. As preparations proceed at a breakneck pace, the commander catches sight of Tatiana, who looks exhausted...",
       "生還した神楽を加え、決戦の準備は整った。\nザルトゥームの人々の自由を勝ち取るために、\n一行はイザナミの本体があるセレノシア島を\n目標として最後の作戦へと臨む。\n急ピッチで準備が進められる中、\n指揮官は暗い表情のエレーナを見かけ――": "Joined by the surviving Kagura, preparations for the final battle are complete. To win back freedom for the people of Zartum, the group embarks on their final operation, targeting Selenosia Island where Izanami's main body resides. As preparations proceed at a breakneck pace, the commander catches sight of Elena, who wears a gloomy expression...",
-      "1節あらすじ": "1節あらすじ",
-      "2節あらすじ": "2節あらすじ",
-      "3節あらすじ": "3節あらすじ"
+      "1節あらすじ": "Section 1 Synopsis",
+      "2節あらすじ": "Section 2 Synopsis",
+      "3節あらすじ": "Section 3 Synopsis"
     },
     "Interlude": {
       "桃園めるルート": "Momozono Meru Route",
@@ -2616,12 +2616,12 @@
   },
   "GradualMissionGroupMaster": {
     "Title": {
-      "初心者ミッション": "初心者ミッション",
-      "謹賀新年ミッション": "謹賀新年ミッション",
+      "初心者ミッション": "Beginner Missions",
+      "謹賀新年ミッション": "New Year Missions",
       "モリモリブートキャンプミッション": "モリモリブートキャンプミッション",
-      "GW7DAYSミッション": "GW7DAYSミッション",
-      "ミニゲーム7DAYSミッション": "ミニゲーム7DAYSミッション",
-      "1st ANIV.7DAYSミッション": "1st ANIV.7DAYSミッション"
+      "GW7DAYSミッション": "GW7DAYS Missions",
+      "ミニゲーム7DAYSミッション": "Minigame 7DAYS Missions",
+      "1st ANIV.7DAYSミッション": "1st ANIV.7DAYS Missions"
     }
   },
   "HomeBackgroundMaster": {
@@ -4337,19 +4337,19 @@
   },
   "InboxMessageMaster": {
     "Message": {
-      "事前登録：登録ユーザー報酬": "事前登録：登録ユーザー報酬",
+      "事前登録：登録ユーザー報酬": "Pre-Registration: Registered User Reward",
       "事前登録：全体ガチャ報酬": "事前登録：全体ガチャ報酬",
-      "事前登録：Xフォロワー報酬": "事前登録：Xフォロワー報酬",
-      "事前登録：獲得報酬": "事前登録：獲得報酬",
-      "アンケート回答報酬": "アンケート回答報酬",
-      "人気ランキング1週間連続1位入賞のプレゼント": "人気ランキング1週間連続1位入賞のプレゼント",
+      "事前登録：Xフォロワー報酬": "Pre-Registration: X Follower Reward",
+      "事前登録：獲得報酬": "Pre-Registration: Earned Rewards",
+      "アンケート回答報酬": "Survey Completion Reward",
+      "人気ランキング1週間連続1位入賞のプレゼント": "Reward for 1 consecutive week in 1st place in the Popularity Rankings",
       "人気ランキング1位入賞のプレゼント": "Reward for Rank 1 in the Popularity Rankings",
       "人気ランキング2位入賞のプレゼント": "Reward for Rank 2 in the Popularity Rankings",
       "人気ランキング3位入賞のプレゼント": "Reward for Rank 3 in the Popularity Rankings",
-      "メンテナンスのお礼": "メンテナンスのお礼",
-      "人気ランキング連続1位入賞のプレゼント": "人気ランキング連続1位入賞のプレゼント",
-      "アカウント連携報酬": "アカウント連携報酬",
-      "人気ランキング1週間連続入賞のプレゼント": "人気ランキング1週間連続入賞のプレゼント"
+      "メンテナンスのお礼": "Maintenance Thank-You Gift",
+      "人気ランキング連続1位入賞のプレゼント": "Reward for consecutive 1st-place finishes in the Popularity Rankings",
+      "アカウント連携報酬": "Account Linking Reward",
+      "人気ランキング1週間連続入賞のプレゼント": "Reward for placing in the Popularity Rankings for 1 consecutive week"
     }
   },
   "ItemAcquisitionLocationMaster": {
@@ -6466,17 +6466,17 @@
   "LoginBonusMaster": {
     "Name": {
       "7月マンスリーログインボーナス": "7月マンスリーログインボーナス",
-      "ウェルカムログインボーナス": "ウェルカムログインボーナス",
-      "事前登録達成記念！ログインボーナス": "事前登録達成記念！ログインボーナス",
-      "リリース300日記念ログインボーナス": "リリース300日記念ログインボーナス",
-      "カムバックログインボーナス": "カムバックログインボーナス",
-      "ログインパス1": "ログインパス1",
-      "ログインパス2": "ログインパス2",
+      "ウェルカムログインボーナス": "Welcome Login Bonus",
+      "事前登録達成記念！ログインボーナス": "Pre-Registration Milestone Login Bonus",
+      "リリース300日記念ログインボーナス": "300-Day Release Celebration Login Bonus",
+      "カムバックログインボーナス": "Welcome Back Login Bonus",
+      "ログインパス1": "Login Pass 1",
+      "ログインパス2": "Login Pass 2",
       "8月マンスリーログインボーナス": "8月マンスリーログインボーナス",
       "水着ジャック！ログインボーナス": "水着ジャック！ログインボーナス",
-      "1st Anniv.記念ログインボーナス": "1st Anniv.記念ログインボーナス",
+      "1st Anniv.記念ログインボーナス": "1st Anniv. Celebration Login Bonus",
       "9月マンスリーログインボーナス": "9月マンスリーログインボーナス",
-      "TGS出展ログインボーナス": "TGS出展ログインボーナス",
+      "TGS出展ログインボーナス": "TGS Exhibition Login Bonus",
       "200万人突破記念ログインボーナス": "200万人突破記念ログインボーナス"
     }
   },
@@ -6577,8 +6577,8 @@
   },
   "MazeMaster": {
     "Name": {
-      "メイズ": "メイズ",
-      "緊急脱出": "緊急脱出"
+      "メイズ": "Maze",
+      "緊急脱出": "Emergency Escape"
     }
   },
   "MazeMissionStageMaster": {
@@ -18631,15 +18631,15 @@
   },
   "SpoilerAlertMaster": {
     "Text": {
-      "このイベントは2章までのネタバレを含みます\n本当にイベントに参加しますか？": "このイベントは2章までのネタバレを含みます\n本当にイベントに参加しますか？",
-      "このイベントは3章までのネタバレを含みます\n本当にイベントに参加しますか？": "このイベントは3章までのネタバレを含みます\n本当にイベントに参加しますか？",
-      "このイベントは4章までのネタバレを含みます\n本当にイベントに参加しますか？": "このイベントは4章までのネタバレを含みます\n本当にイベントに参加しますか？",
-      "このイベントは5章までのネタバレを含みます\n本当にイベントに参加しますか？": "このイベントは5章までのネタバレを含みます\n本当にイベントに参加しますか？",
-      "このイベントは6章までのネタバレを含みます\n本当にイベントに参加しますか？": "このイベントは6章までのネタバレを含みます\n本当にイベントに参加しますか？",
-      "このイベントは7章までのネタバレを含みます\n本当にイベントに参加しますか？": "このイベントは7章までのネタバレを含みます\n本当にイベントに参加しますか？",
-      "このイベントは8章までのネタバレを含みます\n本当にイベントに参加しますか？": "このイベントは8章までのネタバレを含みます\n本当にイベントに参加しますか？",
-      "イベント生徒は編成から外せません。\nポジションのみ変更可能です。\n生徒のLvは難易度に応じて固定となります。": "イベント生徒は編成から外せません。\nポジションのみ変更可能です。\n生徒のLvは難易度に応じて固定となります。",
-      "このイベントは9章までのネタバレを含みます\n本当にイベントに参加しますか？": "このイベントは9章までのネタバレを含みます\n本当にイベントに参加しますか？"
+      "このイベントは2章までのネタバレを含みます\n本当にイベントに参加しますか？": "This event contains spoilers through Chapter 2.\nAre you sure you want to participate?",
+      "このイベントは3章までのネタバレを含みます\n本当にイベントに参加しますか？": "This event contains spoilers through Chapter 3.\nAre you sure you want to participate?",
+      "このイベントは4章までのネタバレを含みます\n本当にイベントに参加しますか？": "This event contains spoilers through Chapter 4.\nAre you sure you want to participate?",
+      "このイベントは5章までのネタバレを含みます\n本当にイベントに参加しますか？": "This event contains spoilers through Chapter 5.\nAre you sure you want to participate?",
+      "このイベントは6章までのネタバレを含みます\n本当にイベントに参加しますか？": "This event contains spoilers through Chapter 6.\nAre you sure you want to participate?",
+      "このイベントは7章までのネタバレを含みます\n本当にイベントに参加しますか？": "This event contains spoilers through Chapter 7.\nAre you sure you want to participate?",
+      "このイベントは8章までのネタバレを含みます\n本当にイベントに参加しますか？": "This event contains spoilers through Chapter 8.\nAre you sure you want to participate?",
+      "イベント生徒は編成から外せません。\nポジションのみ変更可能です。\n生徒のLvは難易度に応じて固定となります。": "Event students cannot be removed from the lineup.\nOnly their positions can be changed.\nStudent levels are fixed according to the difficulty.",
+      "このイベントは9章までのネタバレを含みます\n本当にイベントに参加しますか？": "This event contains spoilers through Chapter 9.\nAre you sure you want to participate?"
     }
   },
   "SpotAreaMaster": {
@@ -18688,8 +18688,8 @@
   },
   "SubscriptionMaster": {
     "Name": {
-      "【月額サブスク】放置報酬増量サポート": "【月額サブスク】放置報酬増量サポート",
-      "【月額サブスク】生徒獲得サポート": "【月額サブスク】生徒獲得サポート"
+      "【月額サブスク】放置報酬増量サポート": "[Monthly Subscription] Increased Idle Rewards Support",
+      "【月額サブスク】生徒獲得サポート": "[Monthly Subscription] Student Recruitment Support"
     }
   },
   "SubscriptionRewardMaster": {
@@ -21258,34 +21258,34 @@
   "UnlockFunctionMaster": {
     "Name": {
       "バトルシミュレート": "Battle Simulation",
-      "属性バトルシミュレート": "属性バトルシミュレート",
+      "属性バトルシミュレート": "Attribute Battle Simulation",
       "メイズ探索": "Maze Exploration",
       "戦術演習": "Tactical Exercises",
-      "課外活動": "課外活動",
-      "学園レベル": "学園レベル",
+      "課外活動": "Extracurricular Activities",
+      "学園レベル": "Academy Level",
       "サークル": "Circle",
-      "オーバーリミット": "オーバーリミット",
-      "ウィッシュリスト": "ウィッシュリスト",
-      "ギアカスタム": "ギアカスタム",
-      "メインクエストHARD": "メインクエストHARD",
-      "学園スポット": "学園スポット",
-      "バトルスキップ": "バトルスキップ",
-      "レベルリンク": "レベルリンク",
-      "モジュール": "モジュール",
+      "オーバーリミット": "Over Limit",
+      "ウィッシュリスト": "Wishlist",
+      "ギアカスタム": "Gear Customization",
+      "メインクエストHARD": "Main Quest HARD",
+      "学園スポット": "Academy Spots",
+      "バトルスキップ": "Battle Skip",
+      "レベルリンク": "Level Link",
+      "モジュール": "Modules",
       "クエスト準備": "Quest Preparation",
       "編成": "Formation",
-      "採掘": "採掘",
-      "VIPランク": "VIPランク",
-      "生徒詳細": "生徒詳細",
-      "限界突破": "限界突破",
-      "スキル強化": "スキル強化",
-      "親愛度": "親愛度",
-      "7Dayミッション": "7Dayミッション",
-      "サークル対抗戦": "サークル対抗戦",
+      "採掘": "Mining",
+      "VIPランク": "VIP Rank",
+      "生徒詳細": "Student Details",
+      "限界突破": "Limit Break",
+      "スキル強化": "Skill Upgrade",
+      "親愛度": "Affection",
+      "7Dayミッション": "7Day Missions",
+      "サークル対抗戦": "Circle Competition",
       "メモリー": "Memories",
-      "バトル速度変更": "バトル速度変更",
-      "バトルカメラ変更": "バトルカメラ変更",
-      "コックピットカメラ": "コックピットカメラ",
+      "バトル速度変更": "Battle Speed Settings",
+      "バトルカメラ変更": "Battle Camera Settings",
+      "コックピットカメラ": "Cockpit Camera",
       "イベント": "Events",
       "公式MG競技": "Official MG Competition",
       "メイズ未開拓エリア": "Maze Unexplored Area",
@@ -21295,40 +21295,40 @@
       "前夜祭MGゼンヤサイダー": "前夜祭MGゼンヤサイダー"
     },
     "Description": {
-      "【バトルシミュレート】が解放されました！": "【バトルシミュレート】が解放されました！",
-      "【属性バトルシミュレート】が解放されました！": "【属性バトルシミュレート】が解放されました！",
-      "【メイズ探索】が解放されました！": "【メイズ探索】が解放されました！",
-      "【戦術演習】が解放されました！": "【戦術演習】が解放されました！",
-      "【課外活動】が解放されました！": "【課外活動】が解放されました！",
-      "【学園レベル】が解放されました！": "【学園レベル】が解放されました！",
-      "【サークル】が解放されました！": "【サークル】が解放されました！",
-      "【オーバーリミット】が解放されました！": "【オーバーリミット】が解放されました！",
-      "【ウィッシュリスト】が解放されました！": "【ウィッシュリスト】が解放されました！",
-      "【ギアカスタム】が解放されました！": "【ギアカスタム】が解放されました！",
-      "【メインクエストHARD】が解放されました！": "【メインクエストHARD】が解放されました！",
-      "【学園スポット】が解放されました！": "【学園スポット】が解放されました！",
-      "【バトルスキップ】が解放されました！": "【バトルスキップ】が解放されました！",
-      "【レベルリンク】が解放されました！": "【レベルリンク】が解放されました！",
-      "【モジュール】が解放されました！": "【モジュール】が解放されました！",
-      "【クエスト準備】が解放されました！": "【クエスト準備】が解放されました！",
-      "【編成】が解放されました！": "【編成】が解放されました！",
-      "【採掘】が解放されました！": "【採掘】が解放されました！",
-      "【VIPランク】が解放されました！": "【VIPランク】が解放されました！",
-      "【生徒詳細】が解放されました！": "【生徒詳細】が解放されました！",
-      "【限界突破】が解放されました！": "【限界突破】が解放されました！",
-      "【スキル強化】が解放されました！": "【スキル強化】が解放されました！",
-      "【親愛度】が解放されました！": "【親愛度】が解放されました！",
-      "【7Dayミッション】が解放されました！": "【7Dayミッション】が解放されました！",
-      "【サークル対抗戦】が解放されました！": "【サークル対抗戦】が解放されました！",
-      "【メモリー編成】が解放されました！": "【メモリー編成】が解放されました！",
-      "メモリーの編成数が1枠増加しました": "メモリーの編成数が1枠増加しました",
-      "【バトル速度変更】が解放されました！": "【バトル速度変更】が解放されました！",
-      "【バトルカメラ変更】が解放されました！": "【バトルカメラ変更】が解放されました！",
-      "【コックピットカメラ】が解放されました！": "【コックピットカメラ】が解放されました！",
-      "【イベント】が解放されました！": "【イベント】が解放されました！",
-      "【公式MG競技】が解放されました！": "【公式MG競技】が解放されました！",
-      "【メイズ未開拓エリア】が解放されました！": "【メイズ未開拓エリア】が解放されました！",
-      "【P-1 グランプリ】が解放されました！": "【P-1 グランプリ】が解放されました！",
+      "【バトルシミュレート】が解放されました！": "[Battle Simulation] Unlocked!",
+      "【属性バトルシミュレート】が解放されました！": "[Attribute Battle Simulation] Unlocked!",
+      "【メイズ探索】が解放されました！": "[Maze Exploration] Unlocked!",
+      "【戦術演習】が解放されました！": "[Tactical Exercises] Unlocked!",
+      "【課外活動】が解放されました！": "[Extracurricular Activities] Unlocked!",
+      "【学園レベル】が解放されました！": "[Academy Level] Unlocked!",
+      "【サークル】が解放されました！": "[Circle] Unlocked!",
+      "【オーバーリミット】が解放されました！": "[Over Limit] Unlocked!",
+      "【ウィッシュリスト】が解放されました！": "[Wishlist] Unlocked!",
+      "【ギアカスタム】が解放されました！": "[Gear Customization] Unlocked!",
+      "【メインクエストHARD】が解放されました！": "[Main Quest HARD] Unlocked!",
+      "【学園スポット】が解放されました！": "[Academy Spots] Unlocked!",
+      "【バトルスキップ】が解放されました！": "[Battle Skip] Unlocked!",
+      "【レベルリンク】が解放されました！": "[Level Link] Unlocked!",
+      "【モジュール】が解放されました！": "[Modules] Unlocked!",
+      "【クエスト準備】が解放されました！": "[Quest Preparation] Unlocked!",
+      "【編成】が解放されました！": "[Lineup] Unlocked!",
+      "【採掘】が解放されました！": "[Mining] Unlocked!",
+      "【VIPランク】が解放されました！": "[VIP Rank] Unlocked!",
+      "【生徒詳細】が解放されました！": "[Student Details] Unlocked!",
+      "【限界突破】が解放されました！": "[Limit Break] Unlocked!",
+      "【スキル強化】が解放されました！": "[Skill Upgrade] Unlocked!",
+      "【親愛度】が解放されました！": "[Affection] Unlocked!",
+      "【7Dayミッション】が解放されました！": "[7Day Missions] Unlocked!",
+      "【サークル対抗戦】が解放されました！": "[Circle Competition] Unlocked!",
+      "【メモリー編成】が解放されました！": "[Memory Lineup] Unlocked!",
+      "メモリーの編成数が1枠増加しました": "Memory lineup capacity increased by 1 slot",
+      "【バトル速度変更】が解放されました！": "[Battle Speed Settings] Unlocked!",
+      "【バトルカメラ変更】が解放されました！": "[Battle Camera Settings] Unlocked!",
+      "【コックピットカメラ】が解放されました！": "[Cockpit Camera] Unlocked!",
+      "【イベント】が解放されました！": "[Events] Unlocked!",
+      "【公式MG競技】が解放されました！": "[Official MG Competition] Unlocked!",
+      "【メイズ未開拓エリア】が解放されました！": "[Maze Unexplored Area] Unlocked!",
+      "【P-1 グランプリ】が解放されました！": "[P-1 Grand Prix] Unlocked!",
       "【戦術演習の初回スキップ】が解放されました！": "【戦術演習の初回スキップ】が解放されました！",
       "【複合戦術演習】が解放されました！": "【複合戦術演習】が解放されました！",
       "【前夜祭イベント】が解放されました！": "【前夜祭イベント】が解放されました！"
