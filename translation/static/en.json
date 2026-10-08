@@ -46,7 +46,8 @@
       "7章": "Chapter 7",
       "8章": "Chapter 8",
       "9章": "Chapter 9",
-      "10章": "Chapter 10"
+      "10章": "Chapter 10",
+      "1部EP": "1部EP"
     },
     "SubTitle": {
       "プロローグ": "Prologue",
@@ -59,7 +60,8 @@
       "刻まれしアナムネーシス": "Engraved Anamnesis",
       "欺かれし星の記憶": "Memories of the Deceived Star",
       "天鎖封祀": "Heavenly Chain Consecration",
-      "自由への意志": "Will Towards Freedom"
+      "自由への意志": "Will Towards Freedom",
+      "あなたの隣を歩けたら": "あなたの隣を歩けたら"
     },
     "Description": {
       "シリウスシュガーの少女たちはメイズにて、\n全裸で追いかけられる謎の男性を発見する。\nそれが運命を変える出会いの始まりだった。": "In the Maze, the girls of Sirius Sugar discover a mysterious man being chased around completely naked. That was the beginning of a fate-altering encounter.",
@@ -73,7 +75,9 @@
       "危機的な状況から、生還した指揮官たち。\nイザナミによって支配されたパイロットを\n救うため、彼らは地上へ反撃に出る――": "Having survived a critical situation, the commanders launch a counteroffensive on the surface to save the pilots controlled by Izanami—",
       "ゾリャー校区に現れたのは、イザナミが操る\n戦略機動要塞『八咫烏』。指揮官達は校区を守る\nため戦いに向かう。そこに５機の天穹が現れ――": "Appearing in the Zorya School District is the strategic mobile fortress 'Yatagarasu', controlled by Izanami. The commanders head into battle to protect the district. Just then, five Tenkyu units appear—",
       "ゾリャー校区に現れたのは、イザナミが操る\n戦略機動要塞『八咫烏』。指揮官達は校区を\n守るため戦いに向かう。そこに５機の天穹が現れ――": "Appearing in the Zorya School District is the strategic mobile fortress 'Yatagarasu,' controlled by Izanami. The commanders head into battle to protect the district. Just then, five Tenkyuu units appear--",
-      "10章のあらすじ": "Chapter 10 Synopsis"
+      "10章のあらすじ": "Chapter 10 Synopsis",
+      "10.5章のあらすじ": "10.5章のあらすじ",
+      "ピコの告げる真実に衝撃を受ける一同。\nそしてそれをきっかけに記憶を取り戻す指揮官。\nイザナミとの最後の戦いが幕を開ける――": "ピコの告げる真実に衝撃を受ける一同。\nそしてそれをきっかけに記憶を取り戻す指揮官。\nイザナミとの最後の戦いが幕を開ける――"
     }
   },
   "ChapterMaster": {
@@ -108,7 +112,9 @@
       "9章3節": "Part 3",
       "10章1節": "Part 1",
       "10章2節": "Part 2",
-      "10章3節": "Part 3"
+      "10章3節": "Part 3",
+      "EP前編": "EP前編",
+      "EP後編": "EP後編"
     },
     "SubTitle": {
       "プロローグ": "Prologue",
@@ -149,7 +155,9 @@
       "イベントストーリー": "Event Story",
       "10章1節": "Chapter 10, Section 1",
       "10章2節": "Chapter 10, Section 2",
-      "10章3節": "Chapter 10, Section 3"
+      "10章3節": "Chapter 10, Section 3",
+      "1部EP前編": "1部EP前編",
+      "1部EP後編": "1部EP後編"
     },
     "Overview": {
       "「次の公式試合で負ければ退学」\nそんな条件を言い渡されたシリウスシュガー。\n危機感のない彼女たちとの学園生活の中で\n指揮官であるあなたはシリウスシュガーに\n必要な『足りないもの』を見つけ……": "\"Expulsion if you lose the next official match.\" That was the condition handed down to Sirius Sugar. Living alongside these girls who lacked any sense of urgency, you, as their commander, must discover what missing element Sirius Sugar needs...",
@@ -188,7 +196,12 @@
       "生還した神楽を加え、決戦の準備は整った。\nザルトゥームの人々の自由を勝ち取るために、\n一行はイザナミの本体があるセレノシア島を\n目標として最後の作戦へと臨む。\n急ピッチで準備が進められる中、\n指揮官は暗い表情のエレーナを見かけ――": "Joined by the surviving Kagura, preparations for the final battle are complete. To win back freedom for the people of Zartum, the group embarks on their final operation, targeting Selenosia Island where Izanami's main body resides. As preparations proceed at a breakneck pace, the commander catches sight of Elena, who wears a gloomy expression...",
       "1節あらすじ": "Section 1 Synopsis",
       "2節あらすじ": "Section 2 Synopsis",
-      "3節あらすじ": "Section 3 Synopsis"
+      "3節あらすじ": "Section 3 Synopsis",
+      "イザナミとの最後の戦いが始まる。\n立ちはだかるのは、全力の『八咫烏』。\nザルトゥーム島とそこに住まう人類の\n未来を懸け、指揮官達は決戦に臨む。": "イザナミとの最後の戦いが始まる。\n立ちはだかるのは、全力の『八咫烏』。\nザルトゥーム島とそこに住まう人類の\n未来を懸け、指揮官達は決戦に臨む。",
+      "ザルトゥーム島の真実を知った学園の少女達。\nそしてそのピコの話をきっかけに、\n記憶を取り戻した指揮官。\n衝撃の内容ではあったが、目的は変わらない。\nザルトゥーム島の自由と未来のために、\n一行はイザナミのメインサーバーを目指す――": "ザルトゥーム島の真実を知った学園の少女達。\nそしてそのピコの話をきっかけに、\n記憶を取り戻した指揮官。\n衝撃の内容ではあったが、目的は変わらない。\nザルトゥーム島の自由と未来のために、\n一行はイザナミのメインサーバーを目指す――",
+      "前半あらすじ": "前半あらすじ",
+      "後半あらすじ": "後半あらすじ",
+      "１万年以上前。アマツカゼに乗って宇宙へ\n旅立ったあなたとイザナミ、そして――\n艦長『御影亜紗陽』と乗組員達。\n長い航海の果てに辿り着いた新天地で、\n彼らは重大な選択を迫られる――": "１万年以上前。アマツカゼに乗って宇宙へ\n旅立ったあなたとイザナミ、そして――\n艦長『御影亜紗陽』と乗組員達。\n長い航海の果てに辿り着いた新天地で、\n彼らは重大な選択を迫られる――"
     },
     "Interlude": {
       "桃園めるルート": "Momozono Meru Route",
@@ -595,7 +608,9 @@
       "穹を駆ける不屈の翼": "Indomitable Wings Soaring Through the Firmament",
       "自由に煌めくジョーカーカード": "Joker Card Sparkling with Freedom",
       "双翼のフロントランナー": "Twin-Winged Frontrunner",
-      "繋がり合う母娘の絆": "The Intertwined Bond of Mother and Daughter"
+      "繋がり合う母娘の絆": "The Intertwined Bond of Mother and Daughter",
+      "歩む先に新たな日常を": "歩む先に新たな日常を",
+      "隣歩む想い": "隣歩む想い"
     }
   },
   "CharacterSchoolGroupMaster": {
@@ -1093,7 +1108,25 @@
       "フロニュート": "Fronewt",
       "八咫烏": "Yatagarasu",
       "八咫烏・右肩": "Yatagarasu - Right Shoulder",
-      "八咫烏・左肩": "Yatagarasu - Left Shoulder"
+      "八咫烏・左肩": "Yatagarasu - Left Shoulder",
+      "タチアナ・ドロズドヴァ": "タチアナ・ドロズドヴァ",
+      "ニーナ／ジーナ・ミーシナ": "ニーナ／ジーナ・ミーシナ",
+      "大賀真桜": "大賀真桜",
+      "惨禍：オルガ＆ナージャ": "惨禍：オルガ＆ナージャ",
+      "惨禍：ニーナ／ジーナ・ミーシナ": "惨禍：ニーナ／ジーナ・ミーシナ",
+      "惨禍：榊野ヒイロ": "惨禍：榊野ヒイロ",
+      "猛威：オルガ＆ナージャ": "猛威：オルガ＆ナージャ",
+      "猛威：ニーナ／ジーナ・ミーシナ": "猛威：ニーナ／ジーナ・ミーシナ",
+      "猛威：榊野ヒイロ": "猛威：榊野ヒイロ",
+      "異変：オルガ＆ナージャ": "異変：オルガ＆ナージャ",
+      "異変：ニーナ／ジーナ・ミーシナ": "異変：ニーナ／ジーナ・ミーシナ",
+      "異変：榊野ヒイロ": "異変：榊野ヒイロ",
+      "破壊：オルガ＆ナージャ": "破壊：オルガ＆ナージャ",
+      "破壊：ニーナ／ジーナ・ミーシナ": "破壊：ニーナ／ジーナ・ミーシナ",
+      "破壊：榊野ヒイロ": "破壊：榊野ヒイロ",
+      "警戒：オルガ＆ナージャ": "警戒：オルガ＆ナージャ",
+      "警戒：ニーナ／ジーナ・ミーシナ": "警戒：ニーナ／ジーナ・ミーシナ",
+      "警戒：榊野ヒイロ": "警戒：榊野ヒイロ"
     }
   },
   "EpisodeMaster": {
@@ -1346,7 +1379,20 @@
       "ニーナ／ジーナ・ミーシナ「双翼のフロントランナー」": "Nina / Gina Mishina \"Twin-Winged Frontrunner\"",
       "オルガ・ヴォルコワ&ナージャ・ヴォルコワ[繋がり合う母娘の絆]": "Olga Volkova & Nadja Volkova [The Intertwined Bond of Mother and Daughter]",
       "オルガ＆ナージャ「繋がり合う母娘の絆」": "Olga & Nadja \"The Intertwined Bond of Mother and Daughter\"",
-      "自由への意志": "Will Towards Freedom"
+      "自由への意志": "Will Towards Freedom",
+      "あなたの隣を歩けたら": "あなたの隣を歩けたら",
+      "前編1話": "前編1話",
+      "前編2話": "前編2話",
+      "前編3話": "前編3話",
+      "前編4話": "前編4話",
+      "後編1話": "後編1話",
+      "後編2話": "後編2話",
+      "後編3話": "後編3話",
+      "後編4話": "後編4話",
+      "後編5話": "後編5話",
+      "桃園める[隣歩む想い]": "桃園める[隣歩む想い]",
+      "桃園める「隣歩む想い」": "桃園める「隣歩む想い」",
+      "第10章": "第10章"
     },
     "SubTitle": {
       "別離": "Parting",
@@ -2291,7 +2337,24 @@
       "ヴォルコワ親子と訓練": "Training with the Volkova Mother and Daughter",
       "最大の幸運は": "The Greatest Good Fortune",
       "空き教室のふたり": "The Two in the Empty Classroom",
-      "立ち入り禁止を破ったら": "If You Break the Off-Limits Rule"
+      "立ち入り禁止を破ったら": "If You Break the Off-Limits Rule",
+      "ここに居たい意志": "ここに居たい意志",
+      "この想いの落ち着くところ": "この想いの落ち着くところ",
+      "どちらを選ぶべきか": "どちらを選ぶべきか",
+      "コトハの居場所": "コトハの居場所",
+      "コトハの責任": "コトハの責任",
+      "コトハを追って": "コトハを追って",
+      "久しぶりの教室": "久しぶりの教室",
+      "各校区の様子": "各校区の様子",
+      "夜空に想いを馳せて": "夜空に想いを馳せて",
+      "屋上での昼下がり": "屋上での昼下がり",
+      "戦いのあと": "戦いのあと",
+      "新たなる兆し": "新たなる兆し",
+      "決闘の掟": "決闘の掟",
+      "花壇が気になる": "花壇が気になる",
+      "進む復興": "進む復興",
+      "ＶＳ天津甕星・宵星＆暁星": "ＶＳ天津甕星・宵星＆暁星",
+      "ＶＳ天津甕星・流星＆彗星": "ＶＳ天津甕星・流星＆彗星"
     }
   },
   "EventGroupMaster": {
@@ -2319,7 +2382,8 @@
       "風紀紊乱れぴゅてーしょん": "Disciplinary Disturbance Reputation",
       "ひとりでおよげるもん": "I Can Swim All by Myself",
       "ザルトゥーム総力戦": "Zaltum All-Out Battle",
-      "自由への意志": "Will Towards Freedom"
+      "自由への意志": "Will Towards Freedom",
+      "あなたの隣を歩けたら": "あなたの隣を歩けたら"
     }
   },
   "EventMaster": {
@@ -2426,7 +2490,9 @@
       "天津甕星・彗星": "Amatsu-Mikaboshi - Comet",
       "天津甕星・暁星": "Amatsu-Mikaboshi - Daybreak Star",
       "天津甕星・流星": "Amatsu-Mikaboshi - Shooting Star",
-      "自由への意志": "Will Towards Freedom"
+      "自由への意志": "Will Towards Freedom",
+      "1章～10章あらすじ": "1章～10章あらすじ",
+      "あなたの隣を歩けたら": "あなたの隣を歩けたら"
     }
   },
   "ExchangeMaster": {
@@ -2583,7 +2649,8 @@
       "DMM POINT限定 NEW CHARACTERピックアップガチャ【ニーナ／ジーナ・ミーシナ】": "DMM POINT Limited NEW CHARACTER Pickup Gacha [Nina / Gina Mishina]",
       "NEW CHARACTERピックアップガチャ【ニーナ／ジーナ・ミーシナ】": "NEW CHARACTER Pickup Gacha [Nina / Gina Mishina]",
       "DMM POINT限定 EXTRA CHARACTERピックアップガチャ【オルガ＆ナージャ】": "DMM POINT Limited EXTRA CHARACTER Pickup Gacha [Olga & Nadja]",
-      "EXTRA CHARACTERピックアップガチャ【オルガ＆ナージャ】": "EXTRA CHARACTER Pickup Gacha [Olga & Nadja]"
+      "EXTRA CHARACTERピックアップガチャ【オルガ＆ナージャ】": "EXTRA CHARACTER Pickup Gacha [Olga & Nadja]",
+      "NEW  CHARACTERピックアップガチャ【桃園める】": "NEW  CHARACTERピックアップガチャ【桃園める】"
     },
     "Description": {
       "有償/無償ジェム・スタンダードガチャチケットを消費して利用できるガチャです。 \n \n【ガチャポイントについて】 \nスタンダードガチャでは、ガチャ1回毎にスタンダードガチャポイントが1獲得できます。\n※スタンダードガチャポイントに使用期限はありません。\n \n【ウィッシュリストについて】\n基本4属性（アグレッシブ・スマート・シャイ・キュート）の生徒を4人ずつと特殊2属性（コミカル・クレバー）の生徒を1人ずつウィッシュリストに設定できます。 ウィッシュリストの設定時、SSRの生徒はウィッシュリストに設定された生徒のみ出現します。  \n\n【スタイルカードについて】 \nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n本ガチャには、ピックアップガチャで新登場した生徒が排出対象に順次追加されます。\n※限定ピックアップガチャの生徒は追加対象外となります。": "This gacha uses Paid/Free Gems or Standard Gacha Tickets. \n \n[Gacha Points] \nIn the Standard Gacha, each 1 pull earns 1 Standard Gacha Point.\n※Standard Gacha Points do not expire.\n \n[Wishlist]\nFor each of the 4 basic types (Aggressive, Smart, Shy, Cute), you can add 4 students to your wishlist, and for each of the 2 special types (Comical, Clever), you can add 1 student. When a wishlist is set, only students on that wishlist can appear as SSR students.  \n\n[Style Cards] \nIf you obtain a student you already own, that student is converted into a Style Card.\nStyle Cards are used for student Limit Breaks.\n\n[Available Students]\nStudents newly introduced in pickup gachas are gradually added to this gacha.\n※Students from limited pickup gachas are excluded from these additions.",
@@ -2611,7 +2678,8 @@
       "セレクトピックアップSSR確定チケット：2026/09を消費して利用できるガチャです。\n本ガチャの開催期間は「2026/10/06 04:59:59まで」になります。\n\n【ガチャポイントについて】 \n本ガチャでは、ガチャポイントが獲得できません。\n\n【ウィッシュリストについて】\n基本4属性（アグレッシブ・スマート・シャイ・キュート）の生徒を3人ずつウィッシュリストに設定できます。 特殊2属性（コミカル・クレバー）の生徒は設定できません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\nレアリティSSRの生徒が出現します。 \n排出対象の生徒は、2026年8月25日時点でスタンダードガチャの対象になっている生徒になります\n※上記期間以降にスタンダードガチャの対象になった生徒は排出生徒に含まれません。": "A gacha usable by consuming a Select Pickup Guaranteed SSR Ticket: 2026/09.\nThis gacha's period runs \"until 2026/10/06 04:59:59\".\n\n[About Gacha Points] \nThis gacha does not grant Gacha Points.\n\n[About the Wishlist]\nYou can set 3 students each of the 4 basic attributes (Aggressive, Smart, Shy, Cute) to the Wishlist. Students of the 2 special attributes (Comical, Clever) cannot be set.\n\n[About Style Cards]\nIf you obtain a student you already own, they are converted into a Style Card.\nStyle Cards are used to Limit Break students.\n\n[About Featured Students]\nSSR-rarity students will appear.\nFeatured students are those who were eligible for the Standard Gacha as of 2026/8/25.\n* Students who became eligible for the Standard Gacha after the above period are not counted as featured students.",
       "期間中無料で利用できるガチャです。\n\n【ガチャポイントについて】 \n本ガチャでは、ガチャポイントが獲得できません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、2026年8月25日時点でスタンダードガチャの対象になっている生徒になります\n※上記期間以降にスタンダードガチャの対象になった生徒は排出生徒に含まれません。": "A gacha usable for free during the period.\n\n[About Gacha Points] \nThis gacha does not grant Gacha Points.\n\n[About Style Cards]\nIf you obtain a student you already own, they are converted into a Style Card.\nStyle Cards are used to Limit Break students.\n\n[About Featured Students]\nFeatured students are those who were eligible for the Standard Gacha as of 2026/8/25.\n* Students who became eligible for the Standard Gacha after the above period are not counted as featured students.",
       "DMMポイントを消費して利用できるガチャです。 \n \n【ガチャポイントについて】 \nピックアップガチャでは、ガチャ1回毎にピックアップガチャポイントが1獲得できます。\n※ピックアップガチャポイントに使用期限はありません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、開始時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。\n\n【ピックアップ生徒について】\n本ピックアップガチャで新登場した生徒は、ガチャ開催終了後、スタンダードガチャの排出対象に順次追加されます。\n※スタンダードガチャの排出対象に追加された後、ウィッシュリストで選択することができません。\n※スタイルカード選択ボックスの対象にも含まれません。": "This gacha uses DMM Points. \n \n[Gacha Points] \nIn the Pickup Gacha, each 1 pull earns 1 Pickup Gacha Point.\n※Pickup Gacha Points do not expire.\n\n[Style Cards]\nIf you obtain a student you already own, that student is converted into a Style Card.\nStyle Cards are used for student Limit Breaks.\n\n[Available Students]\nThe available students are those included in the Standard Gacha when this gacha begins.\n※Students added to the Standard Gacha during this gacha's run are not included.\n\n[Pickup Students]\nStudents newly introduced in this pickup gacha are gradually added to the Standard Gacha after this gacha ends.\n※After they are added to the Standard Gacha, they cannot be selected for the wishlist.\n※They are also excluded from Style Card Selection Boxes.",
-      "有償/無償ジェム・ピックアップガチャチケットを消費して利用できるガチャです。 \n \n【ガチャポイントについて】 \nピックアップガチャでは、ガチャ1回毎にピックアップガチャポイントが1獲得できます。\n※ピックアップガチャポイントに使用期限はありません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、開始時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。\n\n【ピックアップ生徒について】\n本ピックアップガチャで新登場した生徒は、ガチャ開催終了後、スタンダードガチャの排出対象に順次追加されます。\n※スタンダードガチャの排出対象に追加された後、ウィッシュリストで選択することができません。\n※スタイルカード選択ボックスの対象にも含まれません。": "This gacha uses Paid/Free Gems or Pickup Gacha Tickets. \n \n[Gacha Points] \nIn the Pickup Gacha, each 1 pull earns 1 Pickup Gacha Point.\n※Pickup Gacha Points do not expire.\n\n[Style Cards]\nIf you obtain a student you already own, that student is converted into a Style Card.\nStyle Cards are used for student Limit Breaks.\n\n[Available Students]\nThe available students are those included in the Standard Gacha when this gacha begins.\n※Students added to the Standard Gacha during this gacha's run are not included.\n\n[Pickup Students]\nStudents newly introduced in this pickup gacha are gradually added to the Standard Gacha after this gacha ends.\n※After they are added to the Standard Gacha, they cannot be selected for the wishlist.\n※They are also excluded from Style Card Selection Boxes."
+      "有償/無償ジェム・ピックアップガチャチケットを消費して利用できるガチャです。 \n \n【ガチャポイントについて】 \nピックアップガチャでは、ガチャ1回毎にピックアップガチャポイントが1獲得できます。\n※ピックアップガチャポイントに使用期限はありません。\n\n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n排出対象の生徒は、開始時点でスタンダードガチャの対象になっている生徒になります\n※開催期間中にスタンダードガチャの対象になった生徒は排出生徒に含まれません。\n\n【ピックアップ生徒について】\n本ピックアップガチャで新登場した生徒は、ガチャ開催終了後、スタンダードガチャの排出対象に順次追加されます。\n※スタンダードガチャの排出対象に追加された後、ウィッシュリストで選択することができません。\n※スタイルカード選択ボックスの対象にも含まれません。": "This gacha uses Paid/Free Gems or Pickup Gacha Tickets. \n \n[Gacha Points] \nIn the Pickup Gacha, each 1 pull earns 1 Pickup Gacha Point.\n※Pickup Gacha Points do not expire.\n\n[Style Cards]\nIf you obtain a student you already own, that student is converted into a Style Card.\nStyle Cards are used for student Limit Breaks.\n\n[Available Students]\nThe available students are those included in the Standard Gacha when this gacha begins.\n※Students added to the Standard Gacha during this gacha's run are not included.\n\n[Pickup Students]\nStudents newly introduced in this pickup gacha are gradually added to the Standard Gacha after this gacha ends.\n※After they are added to the Standard Gacha, they cannot be selected for the wishlist.\n※They are also excluded from Style Card Selection Boxes.",
+      "サークルガチャチケットを消費して利用できるガチャです。 \n \n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n本ガチャには、ピックアップガチャで新登場した生徒が排出対象に順次追加されます。\n※本ガチャでは、コミカル・クレバーの生徒は、排出対象に含まれません。\n※限定ピックアップガチャ・エクストラピックアップガチャの生徒は追加対象外となります。": "サークルガチャチケットを消費して利用できるガチャです。 \n \n【スタイルカードについて】\nすでに所持している生徒を獲得した場合、スタイルカードに変換されます。\nスタイルカードは、生徒の限界突破に使用します。\n\n【排出生徒について】\n本ガチャには、ピックアップガチャで新登場した生徒が排出対象に順次追加されます。\n※本ガチャでは、コミカル・クレバーの生徒は、排出対象に含まれません。\n※限定ピックアップガチャ・エクストラピックアップガチャの生徒は追加対象外となります。"
     }
   },
   "GradualMissionGroupMaster": {
@@ -2765,7 +2833,11 @@
       "拠点テント外_夕": "Base Camp Tent Exterior (Dusk)",
       "拠点テント外_夜": "Base Camp Tent Exterior (Night)",
       "拠点テント外_昼": "Base Camp Tent Exterior (Day)",
-      "宇宙_その他": "Space (Other)"
+      "宇宙_その他": "Space (Other)",
+      "夕方の海_夕": "夕方の海_夕",
+      "柊校区_昼": "柊校区_昼",
+      "柊校舎教室_夜": "柊校舎教室_夜",
+      "柊校舎教室_特殊1": "柊校舎教室_特殊1"
     }
   },
   "HomeSoundtrackMaster": {
@@ -2777,7 +2849,8 @@
       "コラボ_軍靴の足音": "Collab - Sound of Marching Boots",
       "コラボ_激突": "Collab - Clash",
       "コラボ_未来への咆哮": "Collab - Roar Toward the Future",
-      "アイロニーと花束": "Irony and Bouquet"
+      "アイロニーと花束": "Irony and Bouquet",
+      "MellowDays楽曲": "MellowDays楽曲"
     }
   },
   "HomeSpeechMaster": {
@@ -4332,7 +4405,24 @@
       "私の誕生日、ですか。特に祝い事だと思ったことはありませんね。しかし、あなたに祝福されると……悪くない気分です。": "我的生日啊。我从来没有特别想过要庆祝呢。不过，能被你祝福的话……感觉还不赖。",
       "私の願いは……短冊に書き星に託すというよりは、自分の行動で叶えるものです。[2]|はい。自分達で戦って勝ち取るのが、私達クラスナらしいと思います。[3]": "我的愿望……与其说是写在短笺上寄托给星星，不如说是通过自己的行动来实现。[2]|是的。我认为靠我们自己战斗取胜，才是符合我们Krasna风格的做法。[3]",
       "誕生日おめでとうございます。ナージャと相談し、プレゼントも用意しました。……今後もどうか、ナージャを可愛がってあげてください。あの子も喜びますから。": "生日快乐。我和娜佳商量后，也准备了礼物……今后也请多多疼爱娜佳吧。那孩子也会很开心的。",
-      "願い事……前と変わりません。レドフカのために尽力し、ナージャが幸せに暮らせる世界を作る。そしてそのためにこそ――今は団結し、未来のために戦う必要があります。": "愿望……和以前一样。为了雷多伏卡尽心尽力，创造一个让娜佳能够幸福生活的世界。而为了这个目标——现在我们必须团结一致，为未来而战。"
+      "願い事……前と変わりません。レドフカのために尽力し、ナージャが幸せに暮らせる世界を作る。そしてそのためにこそ――今は団結し、未来のために戦う必要があります。": "愿望……和以前一样。为了雷多伏卡尽心尽力，创造一个让娜佳能够幸福生活的世界。而为了这个目标——现在我们必须团结一致，为未来而战。",
+      "%usernameusernameuserna%さん……まだ戻ってないんですね。なら今のうちに練習を……次のお休み、よろしければ私と……って、少し硬い？　うぅ、お出かけに誘うだけなのに、緊張しちゃう……": "%usernameusernameuserna%さん……まだ戻ってないんですね。なら今のうちに練習を……次のお休み、よろしければ私と……って、少し硬い？　うぅ、お出かけに誘うだけなのに、緊張しちゃう……",
+      "……え？　ホワイトデーだし、いつものお礼も兼ねて、欲しいものならなんでもくれる……？　その言葉……撤回はなしですよ？　欲張って『色々』欲しがっちゃいますから……ふふ。": "……え？　ホワイトデーだし、いつものお礼も兼ねて、欲しいものならなんでもくれる……？　その言葉……撤回はなしですよ？　欲張って『色々』欲しがっちゃいますから……ふふ。",
+      "あ、あのっ……！|いえ……なんでもありません。い、いつかちゃんとお伝えします。": "あ、あのっ……！|いえ……なんでもありません。い、いつかちゃんとお伝えします。",
+      "えへへ、星が綺麗ですっ。|こうやってふたりで夜空を見れるような平和がこれからも続いてほしいです。": "えへへ、星が綺麗ですっ。|こうやってふたりで夜空を見れるような平和がこれからも続いてほしいです。",
+      "お誕生日おめでとうございますっ！　その……今日って他の誰かと約束してますか？　……？　まだしてない……？　で、でしたら……今からお出かけしませんか？　ふたりでお祝いをしに。": "お誕生日おめでとうございますっ！　その……今日って他の誰かと約束してますか？　……？　まだしてない……？　で、でしたら……今からお出かけしませんか？　ふたりでお祝いをしに。",
+      "この服、どうでしょう……？　普段より少しだけおしゃれにしてみたんです。べ、別に誰かと出かける予定があるからじゃなくて……あの、似合ってるかどうかだけ、聞かせてもらえますか？": "この服、どうでしょう……？　普段より少しだけおしゃれにしてみたんです。べ、別に誰かと出かける予定があるからじゃなくて……あの、似合ってるかどうかだけ、聞かせてもらえますか？",
+      "す、少しだけわがままを言ってもいいですか？　%usernameusernameuserna%さんの１日を……私にもらえませんか？　ゆっくりふたりきりで過ごしたいです。": "す、少しだけわがままを言ってもいいですか？　%usernameusernameuserna%さんの１日を……私にもらえませんか？　ゆっくりふたりきりで過ごしたいです。",
+      "もし今度、少し遠くまで出かけるとしたら……どんな場所がいいですか？　いえ、参考にしたいだけですっ。べ、別に予定を立ててるわけじゃありませんから！": "もし今度、少し遠くまで出かけるとしたら……どんな場所がいいですか？　いえ、参考にしたいだけですっ。べ、別に予定を立ててるわけじゃありませんから！",
+      "クリスマスって、大切なことを伝えるにはいい日だとは思いませんか？　私はまだそこまでできそうにないですけど……その代わり、ひとつだけ。次のお休み、少し時間を空けてもらえませんか？": "クリスマスって、大切なことを伝えるにはいい日だとは思いませんか？　私はまだそこまでできそうにないですけど……その代わり、ひとつだけ。次のお休み、少し時間を空けてもらえませんか？",
+      "ジューンブライド……ですね。私はまだそんな先のことより……まずは、大切な人に自分の言葉をしっかり伝えられるように……勇気を出せるように、なりたいです。": "ジューンブライド……ですね。私はまだそんな先のことより……まずは、大切な人に自分の言葉をしっかり伝えられるように……勇気を出せるように、なりたいです。",
+      "ハロウィンのせいか、みんなの服がとても華やかです。私も何か仮装したほうがよろしいでしょうか……え？　この服が可愛いから不要？　えへへ……じゃあ、このままでいますっ。": "ハロウィンのせいか、みんなの服がとても華やかです。私も何か仮装したほうがよろしいでしょうか……え？　この服が可愛いから不要？　えへへ……じゃあ、このままでいますっ。",
+      "七夕のお願い事は、秘密です。でもちゃんと%usernameusernameuserna%さんには、いずれ一番にお伝えするつもりです。だって、あなたとの『これから』のことですから……": "七夕のお願い事は、秘密です。でもちゃんと%usernameusernameuserna%さんには、いずれ一番にお伝えするつもりです。だって、あなたとの『これから』のことですから……",
+      "今日はエイプリルフールですよね。%usernameusernameuserna%さん……私、『デート』をしてみたい――と言ったら、どうしますか？": "今日はエイプリルフールですよね。%usernameusernameuserna%さん……私、『デート』をしてみたい――と言ったら、どうしますか？",
+      "今日はバレンタインですね。こういう日ですし、私も少しくらい勇気を出してみようと思うんです。だから、その……このあと少しだけお時間をください。何をするのかは、まだ秘密ですっ。": "今日はバレンタインですね。こういう日ですし、私も少しくらい勇気を出してみようと思うんです。だから、その……このあと少しだけお時間をください。何をするのかは、まだ秘密ですっ。",
+      "各校区の復興もだいぶ進んできましたね。もし完全に日常が戻ったら……その……ま、また一緒にお出かけしてみませんか？": "各校区の復興もだいぶ進んできましたね。もし完全に日常が戻ったら……その……ま、また一緒にお出かけしてみませんか？",
+      "新しい年が始まりましたね。今年は、今までより少しだけ勇気を出せる年にしたいです。……たとえば、誰かをお出かけに誘うとか。%usernameusernameuserna%さん、初詣……いきませんか？": "新しい年が始まりましたね。今年は、今までより少しだけ勇気を出せる年にしたいです。……たとえば、誰かをお出かけに誘うとか。%usernameusernameuserna%さん、初詣……いきませんか？",
+      "（わっ……！　目が合っちゃった……！）|（やっぱり私……%usernameusernameuserna%さんのこと、好きだなぁ……）": "（わっ……！　目が合っちゃった……！）|（やっぱり私……%usernameusernameuserna%さんのこと、好きだなぁ……）"
     }
   },
   "InboxMessageMaster": {
@@ -4561,7 +4651,8 @@
       "朽葉ラミ[穹を駆ける不屈の翼]のスタイルカード": "Kuchiba Rami [Indomitable Wings Racing the Firmament] Style Card",
       "榊野ヒイロ[疾走する自由の孤狼]のスタイルカード": "Sakakino Hiiro [Racing Lone Wolf of Freedom] Style Card",
       "ニーナ／ジーナ・ミーシナ[双翼のフロントランナー]のスタイルカード": "Nina / Gina Mishina [Twin-Winged Front Runner] Style Card",
-      "オルガ＆ナージャ[繋がり合う母娘の絆]のスタイルカード": "Olga & Nadja [Bond of Mother and Daughter United] Style Card"
+      "オルガ＆ナージャ[繋がり合う母娘の絆]のスタイルカード": "Olga & Nadja [Bond of Mother and Daughter United] Style Card",
+      "桃園める[隣歩む想い]のスタイルカード": "桃園める[隣歩む想い]のスタイルカード"
     },
     "Description": {
       "学園レベルの強化に必要なアイテム。\\n工具が一式揃っている頑丈な箱。": "An item required to upgrade Academy Levels.\\nA sturdy box containing a complete set of tools.",
@@ -4668,7 +4759,8 @@
       "新章イベント「自由への意志」で獲得できる交換アイテム。\\n何かが記録された媒体。": "An exchange item obtainable from the New Chapter event \"Will Towards Freedom\".\\nA medium with something recorded on it.",
       "生徒の親愛度を大きく上昇させるアイテム。\\nTGSブース来場者報酬。": "Greatly increases a student's Affection.\\nA reward for visiting the TGS booth.",
       "使用するとランダムにアイテムが獲得できる。": "Use to obtain a random item.",
-      "生徒の親愛度を大きく上昇させるアイテム。\\nTGS2026のブース来場者報酬。": "Greatly increases a student's Affection.\\nA reward for visiting the TGS2026 booth."
+      "生徒の親愛度を大きく上昇させるアイテム。\\nTGS2026のブース来場者報酬。": "Greatly increases a student's Affection.\\nA reward for visiting the TGS2026 booth.",
+      "新章イベント「あなたの隣を歩けたら」で獲得できる交換アイテム。\\n何かが記録された媒体。": "新章イベント「あなたの隣を歩けたら」で獲得できる交換アイテム。\\n何かが記録された媒体。"
     }
   },
   "LocationMaster": {
@@ -4782,7 +4874,8 @@
       "天津甕星・彗星": "Amatsu-Mikaboshi - Comet",
       "天津甕星・暁星": "Amatsu-Mikaboshi - Daybreak Star",
       "天津甕星・流星": "Amatsu-Mikaboshi - Shooting Star",
-      "自由への意志": "Will Towards Freedom"
+      "自由への意志": "Will Towards Freedom",
+      "あなたの隣を歩けたら": "あなたの隣を歩けたら"
     }
   },
   "LocationNodeMaster": {
@@ -6460,7 +6553,16 @@
       "蘇る記憶": "Resurrected Memories",
       "長い長い『コウカイ』の始まり": "The Beginning of a Very Long 'Regret'",
       "１万年の問い": "A 10000-Year Question",
-      "１万年後": "10000 Years Later"
+      "１万年後": "10000 Years Later",
+      "ここに居たい意志": "ここに居たい意志",
+      "この想いの落ち着くところ": "この想いの落ち着くところ",
+      "コトハの責任": "コトハの責任",
+      "コトハを追って": "コトハを追って",
+      "各校区の様子": "各校区の様子",
+      "戦いのあと": "戦いのあと",
+      "新たなる兆し": "新たなる兆し",
+      "決闘の掟": "決闘の掟",
+      "進む復興": "進む復興"
     }
   },
   "LoginBonusMaster": {
@@ -6477,7 +6579,9 @@
       "1st Anniv.記念ログインボーナス": "1st Anniv. Celebration Login Bonus",
       "9月マンスリーログインボーナス": "September Monthly Login Bonus",
       "TGS出展ログインボーナス": "TGS Exhibition Login Bonus",
-      "200万人突破記念ログインボーナス": "2 Million Players Commemoration Login Bonus"
+      "200万人突破記念ログインボーナス": "2 Million Players Commemoration Login Bonus",
+      "10月マンスリーログインボーナス": "10月マンスリーログインボーナス",
+      "エピソードガイドログインボーナス": "エピソードガイドログインボーナス"
     }
   },
   "MazeBonusMaster": {
@@ -6657,7 +6761,12 @@
       "【新レリック解放】色欲の契約書": "[New Relic Unlocked] Contract of Lust",
       "【新レリック解放】ネクロアルケミー": "[New Relic Unlocked] Necro Alchemy",
       "【新レリック解放】傲慢の契約書": "[New Relic Unlocked] Contract of Pride",
-      "【新レリック解放】嫉妬の契約書": "[New Relic Unlocked] Contract of Envy"
+      "【新レリック解放】嫉妬の契約書": "[New Relic Unlocked] Contract of Envy",
+      "【新レリック解放】ヘビーアンカー": "【新レリック解放】ヘビーアンカー",
+      "【新レリック解放】水棲植物": "【新レリック解放】水棲植物",
+      "【新レリック解放】水没した宝箱": "【新レリック解放】水没した宝箱",
+      "【新レリック解放】綺麗なシャボン玉": "【新レリック解放】綺麗なシャボン玉",
+      "【新レリック解放】釣竿": "【新レリック解放】釣竿"
     },
     "Description": {
       "指揮官ランクが6に到達する事でレリック【(R)リストア】がメイズ探索中に発見される事がある。": "Reaching Commander Rank 6 allows the Relic [(R) Restore] to be discovered during Maze Exploration.",
@@ -6734,7 +6843,12 @@
       "メイズ探索第350エリアをクリアでレリック【色欲の契約書】がメイズ探索中に発見される事がある。\t": "Clearing Maze Exploration Area 350 allows the Relic [Contract of Lust] to be discovered during Maze Exploration.",
       "エリア370以上でタツミヤ鉱を6666以上集めてクリアでレリック【ネクロアルケミー】がメイズ探索中に発見される事がある。": "Clearing Area 370 or above while collecting 6666 or more Tatsumiya Ore allows the Relic [Necro Alchemy] to be discovered during Maze Exploration.",
       "メイズ探索第370エリアをクリアでレリック【傲慢の契約書】がメイズ探索中に発見される事がある。\t": "Clearing Maze Exploration Area 370 allows the Relic [Contract of Pride] to be discovered during Maze Exploration.",
-      "メイズ探索第390エリアをクリアでレリック【嫉妬の契約書】がメイズ探索中に発見される事がある。\t": "Clearing Maze Exploration Area 390 allows the Relic [Contract of Envy] to be discovered during Maze Exploration."
+      "メイズ探索第390エリアをクリアでレリック【嫉妬の契約書】がメイズ探索中に発見される事がある。\t": "Clearing Maze Exploration Area 390 allows the Relic [Contract of Envy] to be discovered during Maze Exploration.",
+      "メイズ探索第420エリアをクリアでレリック【水棲植物】がメイズ探索中に発見される事がある。": "メイズ探索第420エリアをクリアでレリック【水棲植物】がメイズ探索中に発見される事がある。",
+      "メイズ探索第440エリアをクリアでレリック【綺麗なシャボン玉】がメイズ探索中に発見される事がある。": "メイズ探索第440エリアをクリアでレリック【綺麗なシャボン玉】がメイズ探索中に発見される事がある。",
+      "メイズ探索第460エリアをクリアでレリック【釣竿】がメイズ探索中に発見される事がある。": "メイズ探索第460エリアをクリアでレリック【釣竿】がメイズ探索中に発見される事がある。",
+      "メイズ探索第480エリアをクリアでレリック【ヘビーアンカー】がメイズ探索中に発見される事がある。": "メイズ探索第480エリアをクリアでレリック【ヘビーアンカー】がメイズ探索中に発見される事がある。",
+      "メイズ探索第500エリアをクリアでレリック【水没した宝箱】がメイズ探索中に発見される事がある。": "メイズ探索第500エリアをクリアでレリック【水没した宝箱】がメイズ探索中に発見される事がある。"
     }
   },
   "MazeTuneupDailyLimitGroupMaster": {
@@ -6901,7 +7015,16 @@
       "皆で勝つために": "So Everyone Can Win Together",
       "サプライズ大作戦！": "Operation: Surprise!",
       "今、この瞬間が全て": "Right Now, This Moment Is Everything",
-      "新たなる力": "A New Power"
+      "新たなる力": "A New Power",
+      "MellowDaysのシリアルコード配布": "MellowDaysのシリアルコード配布",
+      "ありがとう": "ありがとう",
+      "かえってきた学園生活": "かえってきた学園生活",
+      "がんばるいいんちょ": "がんばるいいんちょ",
+      "コトハの居場所": "コトハの居場所",
+      "夜空に想いを馳せて": "夜空に想いを馳せて",
+      "小さくて、大きくて、大切な約束": "小さくて、大きくて、大切な約束",
+      "暴力は突然に。": "暴力は突然に。",
+      "足跡に感謝を、旅路に祝福を": "足跡に感謝を、旅路に祝福を"
     },
     "Description": {
       "やりぃ♪　じゃあ、遠慮なく！　パフェの専門店、パンケーキ、ステーキハウス　ぜーんぶ、行く！": "Yay♪ Then I won't hold back! Parfait specialty shop, pancakes, steakhouse—I'm going to ALL of them!",
@@ -7067,7 +7190,15 @@
       "ナージャ「どんなに厳しい戦いだったとしても、必ず乗り越えられます……！」\\n オルガ「私もあなたを信頼しています。ふたりなら、きっと……」": "Nadja: \"No matter how tough the battle is, we will definitely overcome it...!\"\\nOlga: \"I trust you as well. Together, the two of us surely can...\"",
       "ニーナ「えっと……私は、ジーナがここ最近無理をしてると思ったんだ」 \\nジーナ「我はパイロットとして、戦士としての責務を果たしているだけだ」": "Nina: \"Um... I just thought that Gina has been pushing herself too hard lately.\"\\nGina: \"I am merely fulfilling my duty as a pilot and a warrior.\"",
       "ライトノベルの特典メモリー": "Light Novel Bonus Memory",
-      "ナージャ「どんなに厳しい戦いだったとしても、必ず乗り越えられます……！」\\nオルガ「私もあなたを信頼しています。ふたりなら、きっと……」": "Nadja: \"No matter how tough the battle is, we will definitely overcome it...!\"\\nOlga: \"I trust you as well. Together, the two of us surely can...\""
+      "ナージャ「どんなに厳しい戦いだったとしても、必ず乗り越えられます……！」\\nオルガ「私もあなたを信頼しています。ふたりなら、きっと……」": "Nadja: \"No matter how tough the battle is, we will definitely overcome it...!\"\\nOlga: \"I trust you as well. Together, the two of us surely can...\"",
+      "……思ってたより、ちゃんと美味しいじゃない。": "……思ってたより、ちゃんと美味しいじゃない。",
+      "いいんちょはいつもがんばってて、サボらないし……\\n委員長のことはウチがぜったいに助けるから―――": "いいんちょはいつもがんばってて、サボらないし……\\n委員長のことはウチがぜったいに助けるから―――",
+      "これからも見せてくれるんでしょ？\\nあんたと一緒に掴み取った、『未来』ってやつを。": "これからも見せてくれるんでしょ？\\nあんたと一緒に掴み取った、『未来』ってやつを。",
+      "これから先もずっと、\\nあなたの隣でたくさんの思い出を作らせてくださいね。": "これから先もずっと、\\nあなたの隣でたくさんの思い出を作らせてくださいね。",
+      "すみません……でも、その……\\n今のことは、あまり意識しないでください……": "すみません……でも、その……\\n今のことは、あまり意識しないでください……",
+      "それは―――無慈悲な一撃だった。魅力は無限大。": "それは―――無慈悲な一撃だった。魅力は無限大。",
+      "もう、そろってからかわないでください～！": "もう、そろってからかわないでください～！",
+      "仕方ないわね……\\nじゃあ、本当にひと口だけ味を見てあげる。": "仕方ないわね……\\nじゃあ、本当にひと口だけ味を見てあげる。"
     }
   },
   "MgBattleRankMaster": {
@@ -7929,7 +8060,16 @@
       "イベント「自由への意志」3節2話をクリアする": "Clear the event \"Will Towards Freedom\" Section 3, Episode 2",
       "イベント「自由への意志」3節3話をクリアする": "Clear the event \"Will Towards Freedom\" Section 3, Episode 3",
       "イベント「自由への意志」3節4話をクリアする": "Clear the event \"Will Towards Freedom\" Section 3, Episode 4",
-      "イベント「自由への意志」3節5話をクリアする": "Clear the event \"Will Towards Freedom\" Section 3, Episode 5"
+      "イベント「自由への意志」3節5話をクリアする": "Clear the event \"Will Towards Freedom\" Section 3, Episode 5",
+      "イベント「あなたの隣を歩けたら」前編1話をクリアする": "イベント「あなたの隣を歩けたら」前編1話をクリアする",
+      "イベント「あなたの隣を歩けたら」前編2話をクリアする": "イベント「あなたの隣を歩けたら」前編2話をクリアする",
+      "イベント「あなたの隣を歩けたら」前編3話をクリアする": "イベント「あなたの隣を歩けたら」前編3話をクリアする",
+      "イベント「あなたの隣を歩けたら」前編4話をクリアする": "イベント「あなたの隣を歩けたら」前編4話をクリアする",
+      "イベント「あなたの隣を歩けたら」後編1話をクリアする": "イベント「あなたの隣を歩けたら」後編1話をクリアする",
+      "イベント「あなたの隣を歩けたら」後編2話をクリアする": "イベント「あなたの隣を歩けたら」後編2話をクリアする",
+      "イベント「あなたの隣を歩けたら」後編3話をクリアする": "イベント「あなたの隣を歩けたら」後編3話をクリアする",
+      "イベント「あなたの隣を歩けたら」後編4話をクリアする": "イベント「あなたの隣を歩けたら」後編4話をクリアする",
+      "イベント「あなたの隣を歩けたら」後編5話をクリアする": "イベント「あなたの隣を歩けたら」後編5話をクリアする"
     }
   },
   "ModuleGearMaster": {
@@ -8019,7 +8159,9 @@
       "一葉の写真": "A Single Photograph",
       "父さんの願い": "Father's Wish",
       "『ストレラ』": "'Strela'",
-      "オルターエゴ": "Alter Ego"
+      "オルターエゴ": "Alter Ego",
+      "自由の夜": "自由の夜",
+      "静寂と月明かり": "静寂と月明かり"
     },
     "Description": {
       "桃園める「シリウスシュガーのエース」の専用OSです。": "Exclusive OS for Momozono Meru \"Ace of Sirius Sugar\".",
@@ -8104,7 +8246,9 @@
       "榊野ヒイロ「疾走する自由の孤狼」の専用OSです。": "Exclusive OS for Hiiro Sakakino: \"Galloping Lone Wolf of Freedom\".",
       "鳴滝七彩「穹を統べる虹色の号令」の専用OSです。": "Exclusive OS for Nanase Narutaki: \"Rainbow Command Governing the Firmament\".",
       "オルガ＆ナージャ「繋がり合う母娘の絆」の専用OSです。": "Exclusive OS for Olga & Nadja: \"The Intertwined Bond of Mother and Daughter\".",
-      "ニーナ・ミーシナ「双翼のフロントランナー」の専用OSです。": "Exclusive OS for Nina Mishina: \"Twin-Winged Front-Runner\"."
+      "ニーナ・ミーシナ「双翼のフロントランナー」の専用OSです。": "Exclusive OS for Nina Mishina: \"Twin-Winged Front-Runner\".",
+      "コトハ「歩む先に新たな日常を」の専用OSです。": "コトハ「歩む先に新たな日常を」の専用OSです。",
+      "桃園める「隣歩む想い」の専用OSです。": "桃園める「隣歩む想い」の専用OSです。"
     }
   },
   "OverrideLocationNodeMaster": {
@@ -9574,7 +9718,23 @@
       "聞き耳を立てる": "Eavesdrop",
       "通達を見ていなかった": "I hadn't seen the notice",
       "運がよかった": "I was just lucky",
-      "静かにしておく": "Keep quiet"
+      "静かにしておく": "Keep quiet",
+      "そう見えるか？": "そう見えるか？",
+      "その服、よく似合ってる": "その服、よく似合ってる",
+      "めるを強く抱きしめる": "めるを強く抱きしめる",
+      "ゆっくり休むといい": "ゆっくり休むといい",
+      "今日は雰囲気が違うな": "今日は雰囲気が違うな",
+      "仲良く見えるらしいぞ": "仲良く見えるらしいぞ",
+      "何か植えてみよう": "何か植えてみよう",
+      "俺たちで手入れをしてみよう": "俺たちで手入れをしてみよう",
+      "俺も驚いた": "俺も驚いた",
+      "少し目を閉じる": "少し目を閉じる",
+      "想いを吐く": "想いを吐く",
+      "日替わり定食を頼む": "日替わり定食を頼む",
+      "来週には試験があるぞ": "来週には試験があるぞ",
+      "眠気を払う": "眠気を払う",
+      "見た感じ、猫みたいだ": "見た感じ、猫みたいだ",
+      "食べたいものを頼む": "食べたいものを頼む"
     }
   },
   "SceneMaster": {
@@ -10528,7 +10688,23 @@
       "ヴォルコワ親子と訓練": "Training with the Volkova Mother and Daughter",
       "最大の幸運は": "The Greatest Good Fortune",
       "空き教室のふたり": "The Two in the Empty Classroom",
-      "立ち入り禁止を破ったら": "If You Break the Off-Limits Rule"
+      "立ち入り禁止を破ったら": "If You Break the Off-Limits Rule",
+      "ここに居たい意志": "ここに居たい意志",
+      "この想いの落ち着くところ": "この想いの落ち着くところ",
+      "どちらを選ぶべきか": "どちらを選ぶべきか",
+      "コトハの居場所": "コトハの居場所",
+      "コトハの責任": "コトハの責任",
+      "コトハを追って": "コトハを追って",
+      "久しぶりの教室": "久しぶりの教室",
+      "各校区の様子": "各校区の様子",
+      "夜空に想いを馳せて": "夜空に想いを馳せて",
+      "屋上での昼下がり": "屋上での昼下がり",
+      "戦いのあと": "戦いのあと",
+      "新たなる兆し": "新たなる兆し",
+      "決闘の掟": "決闘の掟",
+      "自由への意志": "自由への意志",
+      "花壇が気になる": "花壇が気になる",
+      "進む復興": "進む復興"
     }
   },
   "SdCharacterMaster": {
@@ -10538,7 +10714,8 @@
       "ピコ【ダンボール】": "Pico (Cardboard)",
       "朽葉ラミ【振袖】": "Kuchiba Rami (Furisode)",
       "イザナミ": "Izanami",
-      "ルナ【水着】": "Luna (Swimsuit)"
+      "ルナ【水着】": "Luna (Swimsuit)",
+      "ピコ【ピコ太郎】": "ピコ【ピコ太郎】"
     }
   },
   "ShopProductMaster": {
@@ -10631,7 +10808,11 @@
       "Pickup生徒モジュール強化パック【ニーナ／ジーナ・ミーシナ】": "Pickup Student Module Upgrade Pack [Nina / Gina Mishina]",
       "期間限定メモリー「不満と不安」": "Limited-Time Memory \"Dissatisfaction and Anxiety\"",
       "Pickup生徒スキル強化パック【オルガ＆ナージャ】": "Pickup Student Skill Upgrade Pack [Olga & Nadja]",
-      "Pickup生徒モジュール強化パック【オルガ＆ナージャ】": "Pickup Student Module Upgrade Pack [Olga & Nadja]"
+      "Pickup生徒モジュール強化パック【オルガ＆ナージャ】": "Pickup Student Module Upgrade Pack [Olga & Nadja]",
+      "Pickup生徒スキル強化パック【コトハ】": "Pickup生徒スキル強化パック【コトハ】",
+      "Pickup生徒スキル強化パック【桃園める】": "Pickup生徒スキル強化パック【桃園める】",
+      "Pickup生徒モジュール強化パック【コトハ】": "Pickup生徒モジュール強化パック【コトハ】",
+      "Pickup生徒モジュール強化パック【桃園める】": "Pickup生徒モジュール強化パック【桃園める】"
     },
     "Description": {
       "有償ジェム×600": "Paid Gems×600",
@@ -12159,7 +12340,29 @@
       "鉄壁の母娘": "Ironclad Mother and Daughter",
       "高出力指向性光線砲・中央": "High-Output Directional Beam Cannon (Center)",
       "高出力指向性光線砲・右肩翼": "High-Output Directional Beam Cannon (Right Wing)",
-      "高出力指向性光線砲・左肩翼": "High-Output Directional Beam Cannon (Left Wing)"
+      "高出力指向性光線砲・左肩翼": "High-Output Directional Beam Cannon (Left Wing)",
+      "カタラクトブレイク": "カタラクトブレイク",
+      "ストレラ+": "ストレラ+",
+      "ダメージ上昇【アタッカー】": "ダメージ上昇【アタッカー】",
+      "ファーストブランド+": "ファーストブランド+",
+      "ランパートシャッター+": "ランパートシャッター+",
+      "リベンジスタンス+": "リベンジスタンス+",
+      "会心率上昇【後衛】": "会心率上昇【後衛】",
+      "制服コトハ_EXスキル": "制服コトハ_EXスキル",
+      "制服コトハ_スキル1": "制服コトハ_スキル1",
+      "制服コトハ_スキル2": "制服コトハ_スキル2",
+      "制服コトハ_スキル3": "制服コトハ_スキル3",
+      "制服コトハ_スキル4": "制服コトハ_スキル4",
+      "募る想い": "募る想い",
+      "大切な仲間のために": "大切な仲間のために",
+      "大好きをこめて": "大好きをこめて",
+      "心から尽くして": "心から尽くして",
+      "我が雄姿を見よ！+": "我が雄姿を見よ！+",
+      "最大AP増加2T開始【シリウスシュガー】": "最大AP増加2T開始【シリウスシュガー】",
+      "最大HP-20%": "最大HP-20%",
+      "献身的な愛": "献身的な愛",
+      "防御上昇【右列前衛】": "防御上昇【右列前衛】",
+      "防御減少【敵シャイ】": "防御減少【敵シャイ】"
     },
     "DescriptionTemplates[]::Template": {
       "敵単体に自身の攻撃力の{威力}%で{攻撃回数}回攻撃。": "Attacks a single enemy {攻撃回数} time(s) at {威力}% of own ATK.",
@@ -13567,7 +13770,9 @@
       "オルガ・ヴォルコワ「繋がり合う母娘の絆」": "Olga Volkova: \"The Intertwined Bond of Mother and Daughter\"",
       "オルガ・ヴォルコワ＆ナージャ・ヴォルコワ「繋がり合う母娘の絆」": "Olga Volkova & Nadja Volkova: \"The Intertwined Bond of Mother and Daughter\"",
       "ナージャ・ヴォルコワ「繋がり合う母娘の絆」": "Nadja Volkova: \"The Intertwined Bond of Mother and Daughter\"",
-      "ニーナ・ミーシナ「双翼のフロントランナー」": "Nina Mishina: \"Twin-Winged Front-Runner\""
+      "ニーナ・ミーシナ「双翼のフロントランナー」": "Nina Mishina: \"Twin-Winged Front-Runner\"",
+      "黒森ラウラ「みんなを見守る山ガール」": "黒森ラウラ「みんなを見守る山ガール」",
+      "桃園める「隣歩む想い」": "桃園める「隣歩む想い」"
     }
   },
   "SnsPostBranchSelectionMaster": {
@@ -13932,7 +14137,11 @@
       "みんなも着てるから気にするな": "大家都穿着呢，别在意",
       "メイズに潜ってみるか？": "要试着潜入迷宫看看吗？",
       "模擬戦でデータを集めるか？": "还是用模拟战收集数据？",
-      "露出が多いから恥ずかしいとか？": "因为暴露度高所以害羞？"
+      "露出が多いから恥ずかしいとか？": "因为暴露度高所以害羞？",
+      "しっかりしてくれ": "しっかりしてくれ",
+      "やる気があるのはいいことだ": "やる気があるのはいいことだ",
+      "公私混同はよくないぞ": "公私混同はよくないぞ",
+      "失敗は誰にでもある": "失敗は誰にでもある"
     }
   },
   "SnsPostMaster": {
@@ -18626,7 +18835,53 @@
       "＠Tatyana_D\\nなっ……！？　なぜだ！？　戦場こそが我が魂の揺り籠だというのに！": "＠Tatyana_D\\n什……！？　为什么！？　战场明明才是我灵魂的摇篮啊！",
       "＠Tatyana_D\\n問題ありません。ただ、やはり今のところ制御は４機までが限界ですね。": "＠Tatyana_D\\n没问题。只不过，目前的控制极限果然还是四架机体。",
       "＠Tatyana_D\\n確かに動かせてはいましたが、今のような制御は出来ていませんでした。": "＠Tatyana_D\\n虽然确实能操控，但之前可做不到像现在这样精细的控制。",
-      "私たちはこの機体を用意してくれた仲間に感謝するだけでなく、この先の戦いで活躍し、結果で応えねばなりません。": "我们不仅要感谢准备了这台机体的伙伴，更要在接下来的战斗中大显身手，用结果来回报他们才行。"
+      "私たちはこの機体を用意してくれた仲間に感謝するだけでなく、この先の戦いで活躍し、結果で応えねばなりません。": "我们不仅要感谢准备了这台机体的伙伴，更要在接下来的战斗中大显身手，用结果来回报他们才行。",
+      "%usernameusernameuserna%、鈍感すぎる。": "%usernameusernameuserna%、鈍感すぎる。",
+      "%usernameusernameuserna%さんとの約束、取り付けられました！": "%usernameusernameuserna%さんとの約束、取り付けられました！",
+      "……お土産も、なんか違くない？": "……お土産も、なんか違くない？",
+      "……一体誰のせいだと思ってんのよ。": "……一体誰のせいだと思ってんのよ。",
+      "あたしも行きつけの本屋に早く営業再開してほしいし、そっちを手伝いに行こうかなぁ。": "あたしも行きつけの本屋に早く営業再開してほしいし、そっちを手伝いに行こうかなぁ。",
+      "ありがとうございます。%usernameusernameuserna%さん。": "ありがとうございます。%usernameusernameuserna%さん。",
+      "うう、久しぶりに訓練で失敗しちゃいました……": "うう、久しぶりに訓練で失敗しちゃいました……",
+      "ええ、わたくしたちもしっかりお手伝いしていかなければなりませんわね。": "ええ、わたくしたちもしっかりお手伝いしていかなければなりませんわね。",
+      "お、それいいね。それじゃ後で報告会ってことで。": "お、それいいね。それじゃ後で報告会ってことで。",
+      "お土産話、ならちょうどよさそう。": "お土産話、ならちょうどよさそう。",
+      "そうだね。浮ついた状態で訓練すると危ないよ～。": "そうだね。浮ついた状態で訓練すると危ないよ～。",
+      "そうですね……あの、その代わりお土産買ってきますから！": "そうですね……あの、その代わりお土産買ってきますから！",
+      "そうですわね……": "そうですわね……",
+      "でも、本当によかったんですか？　その、私だけ抜け駆けみたいに約束してしまって……": "でも、本当によかったんですか？　その、私だけ抜け駆けみたいに約束してしまって……",
+      "なんにしても、わたくしたちも普段お世話になっているのですから、その恩を返すためにも頑張りましょう。": "なんにしても、わたくしたちも普段お世話になっているのですから、その恩を返すためにも頑張りましょう。",
+      "はい……その、私、頑張ります！　%usernameusernameuserna%さんに想いを伝えられるように……！": "はい……その、私、頑張ります！　%usernameusernameuserna%さんに想いを伝えられるように……！",
+      "はい、すみません……": "はい、すみません……",
+      "はい、それがいいと思います！": "はい、それがいいと思います！",
+      "ふふ、そうですわね。めるさんのお土産話を楽しみにしていますわ。": "ふふ、そうですわね。めるさんのお土産話を楽しみにしていますわ。",
+      "まったく、ちゃんと集中しないとダメじゃない。訓練中に関係ないことばかり考えるから、失敗するのよ。": "まったく、ちゃんと集中しないとダメじゃない。訓練中に関係ないことばかり考えるから、失敗するのよ。",
+      "み、みなさん！　とにかく私、気を付けますね！": "み、みなさん！　とにかく私、気を付けますね！",
+      "みなさん、ありがとうございます。": "みなさん、ありがとうございます。",
+      "みなさん、行ってきます！": "みなさん、行ってきます！",
+      "める、浮かれすぎ。": "める、浮かれすぎ。",
+      "もう……みなさん、自分の都合を優先してばかりですわね……": "もう……みなさん、自分の都合を優先してばかりですわね……",
+      "少しずつですけど、復興が始まりましたね。": "少しずつですけど、復興が始まりましたね。",
+      "早くお気に入りの公園だけでも、復旧できるといいんだけど。": "早くお気に入りの公園だけでも、復旧できるといいんだけど。",
+      "確かに今日の訓練には身が入っていませんでしたわね……理由はなんとなくわかりますけど。": "確かに今日の訓練には身が入っていませんでしたわね……理由はなんとなくわかりますけど。",
+      "罪作りだよねぇ……": "罪作りだよねぇ……",
+      "＠Meru_M\\nあ、今日だっけ？　がんばれ～♪": "＠Meru_M\\nあ、今日だっけ？　がんばれ～♪",
+      "＠Meru_M\\nうんうん。変な遠慮とかしなくていいよ。": "＠Meru_M\\nうんうん。変な遠慮とかしなくていいよ。",
+      "＠Meru_M\\nええ。めるさんが最初に勇気を出したんですもの。今回は譲りますわ。": "＠Meru_M\\nええ。めるさんが最初に勇気を出したんですもの。今回は譲りますわ。",
+      "＠Meru_M\\nおめでとう！": "＠Meru_M\\nおめでとう！",
+      "＠Meru_M\\nお～、おめでと！": "＠Meru_M\\nお～、おめでと！",
+      "＠Meru_M\\nふふ、よかったですわね。": "＠Meru_M\\nふふ、よかったですわね。",
+      "＠Meru_M\\nま、頑張りなさい。肝心なところでヘタレないようにね。": "＠Meru_M\\nま、頑張りなさい。肝心なところでヘタレないようにね。",
+      "＠Meru_M\\nめる、よくがんばった。": "＠Meru_M\\nめる、よくがんばった。",
+      "＠Meru_M\\nわたくしたちのことはいいですから、楽しんでいらっしゃいな。": "＠Meru_M\\nわたくしたちのことはいいですから、楽しんでいらっしゃいな。",
+      "＠Meru_M\\n構わない。": "＠Meru_M\\n構わない。",
+      "＠Meru_M\\n途中で実況よろしく。": "＠Meru_M\\n途中で実況よろしく。",
+      "＠Rami_K\\nでもラミだって気になってるはず。": "＠Rami_K\\nでもラミだって気になってるはず。",
+      "＠Shirona_I\\nそれはそうだけど、実況は厳しいでしょ、さすがに……": "＠Shirona_I\\nそれはそうだけど、実況は厳しいでしょ、さすがに……",
+      "＠Shirona_I\\n実況って、何させようとしてるのよ……": "＠Shirona_I\\n実況って、何させようとしてるのよ……",
+      "＠T_Commander\\nそうですね。選り好みせずにお手伝いしないと、ですよね。": "＠T_Commander\\nそうですね。選り好みせずにお手伝いしないと、ですよね。",
+      "＠T_Commander\\nはい、%usernameusernameuserna%さん。": "＠T_Commander\\nはい、%usernameusernameuserna%さん。",
+      "＠T_Commander\\n確かに、モチベーションがあった方が頑張れそうですね。": "＠T_Commander\\n確かに、モチベーションがあった方が頑張れそうですね。"
     }
   },
   "SpoilerAlertMaster": {
@@ -18639,7 +18894,8 @@
       "このイベントは7章までのネタバレを含みます\n本当にイベントに参加しますか？": "This event contains spoilers through Chapter 7.\nAre you sure you want to participate?",
       "このイベントは8章までのネタバレを含みます\n本当にイベントに参加しますか？": "This event contains spoilers through Chapter 8.\nAre you sure you want to participate?",
       "イベント生徒は編成から外せません。\nポジションのみ変更可能です。\n生徒のLvは難易度に応じて固定となります。": "Event students cannot be removed from the lineup.\nOnly their positions can be changed.\nStudent levels are fixed according to the difficulty.",
-      "このイベントは9章までのネタバレを含みます\n本当にイベントに参加しますか？": "This event contains spoilers through Chapter 9.\nAre you sure you want to participate?"
+      "このイベントは9章までのネタバレを含みます\n本当にイベントに参加しますか？": "This event contains spoilers through Chapter 9.\nAre you sure you want to participate?",
+      "このイベントは10章までのネタバレを含みます\n本当にイベントに参加しますか？": "このイベントは10章までのネタバレを含みます\n本当にイベントに参加しますか？"
     }
   },
   "SpotAreaMaster": {
@@ -18805,7 +19061,8 @@
       "ラミ達の明日": "菈米她们的明天",
       "大事な人と大事な人": "重要的人与重要的人",
       "与えられた明日よりも": "比起被赋予的明天",
-      "最強のふたり": "最强的两人"
+      "最強のふたり": "最强的两人",
+      "今度もふたりで": "今度もふたりで"
     }
   },
   "TalkMessageMaster": {
@@ -19593,7 +19850,19 @@
       "もしもし、%usernameusernameuserna%さんですか？\nさっきは機体の確認に付き添ってくださって、ありがとうございました。": "喂喂，是%usernameusernameuserna%先生吗？\n刚才谢谢你陪我一起确认机体。",
       "ザルトゥームの未来のために、あなたが辣腕を振るうことを期待します。\n我々クラスナも、必ずや指示に応じ、結果を出しましょう。": "为了扎尔图姆的未来，我期待你能大展身手。\n我们Krasna也一定会遵照指示，拿出成果的。",
       "不安や懸念を完全に払拭し、\n決戦に臨むことができるようになったでしょうか。": "现在是不是已经完全消除了不安与忧虑，\n能够从容地迎接决战了呢？",
-      "私達……思えば、出会ってからまだ間もないですけど。\nでも、%usernameusernameuserna%さんなら信じられます。": "回想起来……我们相遇还不到多久呢。\n但是，如果是%usernameusernameuserna%先生的话，我愿意相信你。"
+      "私達……思えば、出会ってからまだ間もないですけど。\nでも、%usernameusernameuserna%さんなら信じられます。": "回想起来……我们相遇还不到多久呢。\n但是，如果是%usernameusernameuserna%先生的话，我愿意相信你。",
+      "――%usernameusernameuserna%さん。": "――%usernameusernameuserna%さん。",
+      "……あ、お礼が理由なんですね。": "……あ、お礼が理由なんですね。",
+      "……？　みんなじゃなくて、ふたりで……？": "……？　みんなじゃなくて、ふたりで……？",
+      "あ、%usernameusernameuserna%さん、こんにちは。\n昨日はその……ありがとうございました。": "あ、%usernameusernameuserna%さん、こんにちは。\n昨日はその……ありがとうございました。",
+      "い、いえ！　嫌とかじゃなくて……むしろ、望むところと言いますか、\n願ってもないことと言いますか……！": "い、いえ！　嫌とかじゃなくて……むしろ、望むところと言いますか、\n願ってもないことと言いますか……！",
+      "ううん、なんでもないです！　嬉しいです……！\nどうであれ、私と『ふたりで』というのが特に……えへへ。": "ううん、なんでもないです！　嬉しいです……！\nどうであれ、私と『ふたりで』というのが特に……えへへ。",
+      "えっ！？　ふたりでですか！？": "えっ！？　ふたりでですか！？",
+      "え？　また星を観に行こう？　今度は景色のいい場所で……？": "え？　また星を観に行こう？　今度は景色のいい場所で……？",
+      "では今度時間を作って、夜空の綺麗な場所へ行きましょう。\nアマツで綺麗な星が観られるスポット、\nいくつか候補探しておきますね。": "では今度時間を作って、夜空の綺麗な場所へ行きましょう。\nアマツで綺麗な星が観られるスポット、\nいくつか候補探しておきますね。",
+      "はい……！　喜んで！\nではみんなにもこのお話をして、スケジュールを――": "はい……！　喜んで！\nではみんなにもこのお話をして、スケジュールを――",
+      "ん？　昨日のお礼をちゃんとしたい……ですか？": "ん？　昨日のお礼をちゃんとしたい……ですか？",
+      "不束者ですが、これからも末永くよろしくお願いしますっ。": "不束者ですが、これからも末永くよろしくお願いしますっ。"
     }
   },
   "ThumbnailFrameMaster": {
@@ -20176,7 +20445,14 @@
       "オルガ＆ナージャ「戦いの後も一緒に」": "Olga & Nadja \"Together Even After Battle\"",
       "オルガ＆ナージャ「鉄の親子」": "Olga & Nadja \"Iron Parent and Child\"",
       "オルガ＆ナージャ「鶏と卵」": "Olga & Nadja \"Chicken and Egg\"",
-      "ピコを応援し隊☆": "Pico Cheer Squad☆"
+      "ピコを応援し隊☆": "Pico Cheer Squad☆",
+      "第7回「到達者」": "第7回「到達者」",
+      "第7回「制圧者」": "第7回「制圧者」",
+      "第7回「覇者」": "第7回「覇者」",
+      "隣歩む想い「LOVE」": "隣歩む想い「LOVE」",
+      "隣歩む想い「居場所」": "隣歩む想い「居場所」",
+      "隣歩む想い「想い」": "隣歩む想い「想い」",
+      "隣歩む想い「青春」": "隣歩む想い「青春」"
     },
     "UnlockDescription": {
       "桃園める[ドジで純粋な未来のエース]の親愛度を10にする": "Raise Momozono Meru [Clumsy and Pure Future Ace]'s Affection to 10.",
@@ -20839,7 +21115,19 @@
       "オルガ＆ナージャ[繋がり合う母娘の絆]の親愛度を20にする": "Raise Olga & Nadja [The Intertwined Bond of Mother and Daughter]'s Affection to 20.",
       "オルガ＆ナージャ[繋がり合う母娘の絆]の親愛度を30にする": "Raise Olga & Nadja [The Intertwined Bond of Mother and Daughter]'s Affection to 30.",
       "オルガ＆ナージャ[繋がり合う母娘の絆]の親愛度を40にする": "Raise Olga & Nadja [The Intertwined Bond of Mother and Daughter]'s Affection to 40.",
-      "特別なシリアルコードと交換する": "Redeem a special serial code."
+      "特別なシリアルコードと交換する": "Redeem a special serial code.",
+      "メイズ探索第100エリアに到達する": "メイズ探索第100エリアに到達する",
+      "メイズ探索第200エリアに到達する": "メイズ探索第200エリアに到達する",
+      "メイズ探索第300エリアに到達する": "メイズ探索第300エリアに到達する",
+      "メイズ探索第400エリアに到達する": "メイズ探索第400エリアに到達する",
+      "メイズ探索第500エリアに到達する": "メイズ探索第500エリアに到達する",
+      "桃園める[隣歩む想い]の親愛度を10にする": "桃園める[隣歩む想い]の親愛度を10にする",
+      "桃園める[隣歩む想い]の親愛度を20にする": "桃園める[隣歩む想い]の親愛度を20にする",
+      "桃園める[隣歩む想い]の親愛度を30にする": "桃園める[隣歩む想い]の親愛度を30にする",
+      "桃園める[隣歩む想い]の親愛度を40にする": "桃園める[隣歩む想い]の親愛度を40にする",
+      "第7回サークル対抗制圧戦でランキング100位以内に入る": "第7回サークル対抗制圧戦でランキング100位以内に入る",
+      "第7回サークル対抗制圧戦でランキング10位以内に入る": "第7回サークル対抗制圧戦でランキング10位以内に入る",
+      "第7回サークル対抗制圧戦でランキング50位以内に入る": "第7回サークル対抗制圧戦でランキング50位以内に入る"
     },
     "FlavorText": {
       "集中！": "Focus!",
@@ -21228,7 +21516,11 @@
       "存在の証明": "Proof of Existence",
       "戦いの後も一緒に": "Together Even After Battle",
       "鉄の親子": "Iron Parent and Child",
-      "鶏と卵": "Chicken and Egg"
+      "鶏と卵": "Chicken and Egg",
+      "地底の研究者": "地底の研究者",
+      "居場所": "居場所",
+      "想い": "想い",
+      "青春": "青春"
     }
   },
   "TypeEquipmentMaster": {
