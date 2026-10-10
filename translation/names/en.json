@@ -583,9 +583,9 @@
     "通行人の男性４": "Male Passerby 4",
     "風紀委員一同": "All Disciplinary Committee Members",
     "風紀委員１": "Disciplinary Committee Member 1",
-    "風紀委員２": "Disciplinary Committee Member 2", 
-    "クレーマー": "Complainer", 
-    "クレーマー１": "Complainer 1", 
+    "風紀委員２": "Disciplinary Committee Member 2",
+    "クレーマー": "Complainer",
+    "クレーマー１": "Complainer 1",
     "クレーマー２": "Complainer 2",
     "アニス・うるう": "Anise / Uruu",
     "コトハ＆ナージャ＆ジーナ": "Kotoha & Nadja & Gina",
@@ -654,7 +654,14 @@
     "船内アナウンス": "Shipboard Announcement",
     "野良猫": "Stray Cat",
     "ナージャ・タチアナ・エレーナ": "Nadja, Tatiana & Elena",
-    "学園の少女達": "Academy Girls"
+    "学園の少女達": "Academy Girls",
+    "LOCの生徒１": "LOC Student １",
+    "LOCの生徒２": "LOC Student ２",
+    "ガラの悪い少女１": "Rough-Looking Girl １",
+    "ガラの悪い少女２": "Rough-Looking Girl ２",
+    "ストリートの住民１": "Street Resident １",
+    "ストリートの住民２": "Street Resident ２",
+    "双頭の斧下っ端１＆２": "Double-Headed Axe Grunts １ & ２"
   },
   "teamNames": {
     "<color=#ffbcd6>シリウスシュガー</material></color>": "<color=#ffbcd6>Sirius Sugar</material></color>",
