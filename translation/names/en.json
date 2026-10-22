@@ -661,7 +661,23 @@
     "ガラの悪い少女２": "Rough-Looking Girl ２",
     "ストリートの住民１": "Street Resident １",
     "ストリートの住民２": "Street Resident ２",
-    "双頭の斧下っ端１＆２": "Double-Headed Axe Grunts １ & ２"
+    "双頭の斧下っ端１＆２": "Double-Headed Axe Grunts １ & ２",
+    "エンジニア科の生徒その１": "Engineering Student 1",
+    "エンジニア科の生徒その２": "Engineering Student 2",
+    "ぼーっとした少女": "Dazed Girl",
+    "アヤ": "Aya",
+    "イゾルデ": "Isolde",
+    "エヴァ": "Eva",
+    "ラミ＆コトハ": "Rami & Kotoha",
+    "リーリヤ": "Liliya",
+    "ヴェラ": "Vera",
+    "ヴェールの少女": "Veiled Girl",
+    "七彩＆白奈": "Nanase & Shirona",
+    "医療スタッフ": "Medical Staff",
+    "双頭の斧幹部": "Twin-Headed Axe Executive",
+    "沿岸監視員": "Coastal Observer",
+    "煽る少女": "Taunting Girl",
+    "片目隠れの少女": "One-Eyed Girl"
   },
   "teamNames": {
     "<color=#ffbcd6>シリウスシュガー</material></color>": "<color=#ffbcd6>Sirius Sugar</material></color>",
@@ -704,6 +720,7 @@
     "<color=#f48981>インスカーレット</color>": "<color=#f48981>Inscarlet</color>",
     "<color=#ffbcd6>シリウスシュガー</color>": "<color=#ffbcd6>Sirius Sugar</color>",
     "<color=#ffca96>プレ・クラス－Ａ</color>": "<color=#ffca96>Pre Class A</color>",
-    "スカラ水上スポーツ大会実行委員会": "Scalar Watersports Tournament Executive Committee"
+    "スカラ水上スポーツ大会実行委員会": "Scalar Watersports Tournament Executive Committee",
+    "ステラマリス": "Stellamaris"
   }
 }
